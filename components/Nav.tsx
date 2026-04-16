@@ -22,7 +22,7 @@ export function Nav() {
         <Link href="/" className="flex items-center gap-2.5 py-3 shrink-0">
           <Music2 size={18} className="text-navy/70" />
           <div>
-            <div className="font-display text-navy text-sm font-bold leading-tight">
+            <div className="font-display text-sm font-bold leading-tight text-white">
               Porch Pilot
             </div>
             <div className="text-[10px] tracking-widest text-navy/50 uppercase font-light">

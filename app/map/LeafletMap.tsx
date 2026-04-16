@@ -133,10 +133,6 @@ export default function LeafletMap({ bands }: Props) {
     };
   }, []);
 
-  // Update markers if bands change
-  useEffect(() => {
-    // Re-render handled by key prop in parent
-  }, [bands]);
 
   return <div ref={mapRef} style={{ height: "420px", width: "100%" }} />;
 }

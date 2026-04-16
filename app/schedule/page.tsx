@@ -6,7 +6,6 @@ import { ZoneBadge } from "@/components/ZoneBadge";
 import Link from "next/link";
 import { X, MapPin, Clock, ArrowRight } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
-import clsx from "clsx";
 
 function startMinutes(time: string): number {
   const m = time.match(/^(\d+):(\d+)/);

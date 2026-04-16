@@ -1,4 +1,4 @@
-import { BANDS, ZONE_CONFIG } from "@/lib/bands";
+import { BANDS } from "@/lib/bands";
 import { BandDetailClient } from "./BandDetailClient";
 import { notFound } from "next/navigation";
 
@@ -6,8 +6,9 @@ export function generateStaticParams() {
   return BANDS.map((b) => ({ id: String(b.id) }));
 }
 
-export function generateMetadata({ params }: { params: { id: string } }) {
-  const band = BANDS.find((b) => b.id === Number(params.id));
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const band = BANDS.find((b) => b.id === Number(id));
   if (!band) return {};
   return {
     title: `${band.name} · Porch Pilot`,
@@ -15,8 +16,9 @@ export function generateMetadata({ params }: { params: { id: string } }) {
   };
 }
 
-export default function BandPage({ params }: { params: { id: string } }) {
-  const band = BANDS.find((b) => b.id === Number(params.id));
+export default async function BandPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const band = BANDS.find((b) => b.id === Number(id));
   if (!band) notFound();
 
   return <BandDetailClient band={band} />;

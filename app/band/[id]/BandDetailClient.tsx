@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { Band, ZONE_CONFIG } from "@/lib/bands";
 import { useSchedule } from "@/lib/store";
 import { ZoneBadge } from "@/components/ZoneBadge";
@@ -20,6 +21,8 @@ export function BandDetailClient({ band }: { band: Band }) {
   const { toggle, has } = useSchedule();
   const inSchedule = has(band.id);
   const zCfg = ZONE_CONFIG[band.zone];
+  const [imgFailed, setImgFailed] = React.useState(false);
+  const hasImage = !!band.image && !imgFailed;
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-6 animate-fade-up">
@@ -40,7 +43,7 @@ export function BandDetailClient({ band }: { band: Band }) {
         <div
           className="h-64 flex items-end justify-between px-6 pb-5 relative"
           style={{
-            background: band.image
+            background: hasImage
               ? `#1a1a1a`
               : `linear-gradient(135deg, ${band.color}CC, ${band.color}88)`,
           }}
@@ -50,12 +53,13 @@ export function BandDetailClient({ band }: { band: Band }) {
             <img
               src={band.image}
               alt={band.name}
+              onError={() => setImgFailed(true)}
               className="absolute inset-0 w-full h-full object-contain object-center"
-              style={{ zIndex: 0 }}
+              style={{ zIndex: 0, display: imgFailed ? "none" : undefined }}
             />
           )}
           {/* Gradient overlay sits on top of image */}
-          {band.image && (
+          {hasImage && (
             <div
               className="absolute inset-0"
               style={{
@@ -73,7 +77,7 @@ export function BandDetailClient({ band }: { band: Band }) {
             </span>
           </div>
           {/* Big note decoration — only when no image */}
-          {!band.image && (
+          {!hasImage && (
             <div className="opacity-20 text-white select-none"><Music size={56} /></div>
           )}
         </div>

@@ -188,7 +188,7 @@ export default function DiscoverPage() {
 
       {/* Genre grid — now above time slots */}
       <section className="max-w-5xl mx-auto px-4 py-6 border-t border-blush/30">
-        <p className="text-base text-navy/50 mb-3">Filter by genre</p>
+        <p className="text-base text-navy/50 mb-3">Browse by genre</p>
         <div className="flex flex-wrap gap-2">
           {ALL_GENRES.map((g) => {
             const color = GENRE_COLORS[g] || "#4A4A4A";

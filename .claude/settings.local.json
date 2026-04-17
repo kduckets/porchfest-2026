@@ -2,7 +2,15 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:somervilleartscouncil.org)"
+      "WebFetch(domain:somervilleartscouncil.org)",
+      "Bash(curl -s \"https://somervilleartscouncil.org/view/porchfest-single-entry/entry/64642/\")",
+      "Bash(curl -s \"https://somervilleartscouncil.org/porchfest/porchfest-listing/\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(node scripts/verify-bios.mjs)",
+      "Bash(node -e ' *)",
+      "Bash(node scripts/fetch-and-download-images.mjs)"
     ]
   }
 }

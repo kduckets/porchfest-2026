@@ -38,7 +38,7 @@ export function BandDetailClient({ band }: { band: Band }) {
         style={{ background: `${band.color}15` }}
       >
         <div
-          className="h-48 flex items-end justify-between px-6 pb-5 relative"
+          className="h-64 flex items-end justify-between px-6 pb-5 relative"
           style={{
             background: band.image
               ? `linear-gradient(to top, ${band.color}EE 0%, ${band.color}88 50%, transparent 100%)`
@@ -50,7 +50,7 @@ export function BandDetailClient({ band }: { band: Band }) {
             <img
               src={band.image}
               alt={band.name}
-              className="absolute inset-0 w-full h-full object-cover object-center"
+              className="absolute inset-0 w-full h-full object-cover object-top"
               style={{ zIndex: 0 }}
             />
           )}

@@ -104,12 +104,22 @@ export function BandDetailClient({ band }: { band: Band }) {
       <p className="text-[0.9rem] leading-7 text-navy/70 mb-6">{band.bio}</p>
 
       {/* Listen */}
-      {(band.spotify || band.youtube || band.website) && (
+      {(band.bandcamp || band.spotify || band.youtube || band.website) && (
         <div className="mb-6">
           <p className="text-[10px] tracking-widest uppercase text-navy/40 mb-2.5">
             Listen & Learn
           </p>
           <div className="flex flex-wrap gap-2">
+            {band.bandcamp && (
+              <a
+                href={band.bandcamp}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 bg-[#1DA0C3] text-white text-sm rounded-lg hover:opacity-90 transition-opacity"
+              >
+                ♫ Bandcamp
+              </a>
+            )}
             {band.spotify && (
               <a
                 href={band.spotify}

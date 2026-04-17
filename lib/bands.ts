@@ -12,6 +12,7 @@ export interface Band {
   lat: number;
   lng: number;
   color: string;
+  bandcamp?: string;
   spotify?: string;
   youtube?: string;
   website?: string;
@@ -156,6 +157,8 @@ export const BANDS: Band[] = [
     lat: 42.402395,
     lng: -71.123231,
     color: "#C44A3A",
+    bandcamp: "https://babybowler.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/041BPkjmZ8ki75PSLztzE5",
   },
   {
     id: 7,
@@ -1430,6 +1433,7 @@ export const BANDS: Band[] = [
     lat: 42.400545,
     lng: -71.124062,
     color: "#C44A3A",
+    bandcamp: "https://wariospeedwagon.bandcamp.com",
   },
   {
     id: 105,
@@ -1547,6 +1551,7 @@ export const BANDS: Band[] = [
     lat: 42.399234,
     lng: -71.115006,
     color: "#C44A3A",
+    bandcamp: "https://foamflower.bandcamp.com",
   },
   {
     id: 114,
@@ -2067,6 +2072,7 @@ export const BANDS: Band[] = [
     lat: 42.394376,
     lng: -71.103465,
     color: "#C44A3A",
+    bandcamp: "https://goodjunema.bandcamp.com",
   },
   {
     id: 154,
@@ -2405,6 +2411,7 @@ export const BANDS: Band[] = [
     lat: 42.396904,
     lng: -71.114253,
     color: "#C44A3A",
+    bandcamp: "https://ohmfoam.bandcamp.com",
   },
   {
     id: 180,
@@ -2808,6 +2815,8 @@ export const BANDS: Band[] = [
     lat: 42.386716,
     lng: -71.112719,
     color: "#C44A3A",
+    bandcamp: "https://theorrs.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/2Y1CgrnvVxyWVTyZoqZ3LR",
   },
   {
     id: 211,
@@ -2886,6 +2895,7 @@ export const BANDS: Band[] = [
     lat: 42.386044,
     lng: -71.112551,
     color: "#C44A3A",
+    bandcamp: "https://thesestainsarewhoiam.bandcamp.com",
   },
   {
     id: 217,
@@ -3016,6 +3026,8 @@ export const BANDS: Band[] = [
     lat: 42.393757,
     lng: -71.112981,
     color: "#C44A3A",
+    bandcamp: "https://webroketheweather.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/3UVfNx8oBpDvldYKR2i8V1",
   },
   {
     id: 227,
@@ -3341,6 +3353,7 @@ export const BANDS: Band[] = [
     lat: 42.386578,
     lng: -71.109819,
     color: "#C44A3A",
+    bandcamp: "https://myopicmystic.bandcamp.com",
   },
   {
     id: 252,
@@ -3380,6 +3393,7 @@ export const BANDS: Band[] = [
     lat: 42.384618,
     lng: -71.110938,
     color: "#C44A3A",
+    bandcamp: "https://stateparque.bandcamp.com",
   },
   {
     id: 255,
@@ -3484,6 +3498,8 @@ export const BANDS: Band[] = [
     lat: 42.378457,
     lng: -71.101674,
     color: "#C44A3A",
+    bandcamp: "https://ajdatheturkishqueen.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/6NMzdhHRVGagSrwNwW91Rt",
   },
   {
     id: 263,
@@ -3718,6 +3734,8 @@ export const BANDS: Band[] = [
     lat: 42.383597,
     lng: -71.097162,
     color: "#C44A3A",
+    bandcamp: "https://crowfollow.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/4X7jpzB8ZYEAv2gnRi4mFa",
   },
   {
     id: 281,
@@ -3796,6 +3814,7 @@ export const BANDS: Band[] = [
     lat: 42.385385,
     lng: -71.104324,
     color: "#C44A3A",
+    bandcamp: "https://doublestarband.bandcamp.com",
   },
   {
     id: 287,
@@ -4316,6 +4335,7 @@ export const BANDS: Band[] = [
     lat: 42.378834,
     lng: -71.103014,
     color: "#C44A3A",
+    bandcamp: "https://orbiterbos.bandcamp.com",
   },
   {
     id: 327,
@@ -4641,6 +4661,7 @@ export const BANDS: Band[] = [
     lat: 42.377465,
     lng: -71.101328,
     color: "#C44A3A",
+    bandcamp: "https://theelegies.bandcamp.com",
   },
   {
     id: 352,
@@ -4667,6 +4688,8 @@ export const BANDS: Band[] = [
     lat: 42.379781,
     lng: -71.106593,
     color: "#C44A3A",
+    bandcamp: "https://thegalvanics.bandcamp.com",
+    spotify: "https://open.spotify.com/artist/6sJmj8pjqBH8h8NxBy0UEq",
   },
   {
     id: 354,
@@ -5070,6 +5093,7 @@ export const BANDS: Band[] = [
     lat: 42.378005,
     lng: -71.098300,
     color: "#C44A3A",
+    bandcamp: "https://galaxycakeboston.bandcamp.com",
   },
   {
     id: 385,

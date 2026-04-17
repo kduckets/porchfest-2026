@@ -94,7 +94,6 @@ export const BANDS: Band[] = [
     lat: 42.401007,
     lng: -71.122411,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -148,7 +147,6 @@ export const BANDS: Band[] = [
     lat: 42.402205,
     lng: -71.123409,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -244,7 +242,6 @@ export const BANDS: Band[] = [
     lat: 42.398450,
     lng: -71.126587,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/buscrushband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/573862412_17943286656076361_5318797535731141807_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=YBoaIUirD-8Q7kNvwHbF9aa&amp;_nc_oc=AdpBt7GLI9wmIZllhlXDepIB8wO1WnFGeakIie7L-0wcO9evZNoIBw40rCIRStdtUCc&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=N7e59FC1TXf1FO8EsrZ9uw&amp;_nc_ss=7a289&amp;oh=00_Af2UhWkbuwmX9JVY4pEOUKLgV6veZH0vV7jcVU4-l0rjSg&amp;oe=69E81AA6"
   },
   {
@@ -259,7 +256,6 @@ export const BANDS: Band[] = [
     lat: 42.403069,
     lng: -71.124151,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/charlottehammm",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/613578747_18549720316031161_2871619596021883169_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=g19ioIujGcYQ7kNvwHq6vDb&amp;_nc_oc=AdphqriFPVN8ceigRRC2-jsRpOxQcMY3DuHz8x3o6cWvIQ68gQ4p1FlhbSSmQgZqlQc&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=63fBQFneJ1B0KsDgK0UnTg&amp;_nc_ss=7a289&amp;oh=00_Af2UnbKCjkx8wfyf7xaWgzqyA4611OoHH91NqVjWx76nrQ&amp;oe=69E81ED9"
   },
   {
@@ -287,7 +283,6 @@ export const BANDS: Band[] = [
     lat: 42.394337,
     lng: -71.124504,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -302,7 +297,6 @@ export const BANDS: Band[] = [
     lat: 42.396333,
     lng: -71.116945,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -317,7 +311,6 @@ export const BANDS: Band[] = [
     lat: 42.394452,
     lng: -71.123591,
     color: "#7A9E6A",
-    instagram: "https://instagram.com/cousinwalkmusic",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/449669734_1548609735729833_7686745340090485043_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MTIuQzMifQ%3D%3D&amp;_nc_ohc=ScCP-By8hGwQ7kNvwE847lT&amp;_nc_oc=AdpNYMstUBiPOXtz_ibiYeG_jr1sF6Xr7B9HB0GXcJk4yiBubchLLpXPOzxVd7Kov4k&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0pdlTlqJviQCPjqSFVsip4xwBNSQIWehXaXn9Pa_UdFw&amp;oe=69E81907"
   },
   {
@@ -345,7 +338,6 @@ export const BANDS: Band[] = [
     lat: 42.396010,
     lng: -71.116118,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -373,7 +365,6 @@ export const BANDS: Band[] = [
     lat: 42.399286,
     lng: -71.115465,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -388,7 +379,6 @@ export const BANDS: Band[] = [
     lat: 42.396837,
     lng: -71.124989,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -403,7 +393,6 @@ export const BANDS: Band[] = [
     lat: 42.396066,
     lng: -71.125658,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -431,7 +420,6 @@ export const BANDS: Band[] = [
     lat: 42.398725,
     lng: -71.116324,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -472,7 +460,6 @@ export const BANDS: Band[] = [
     lat: 42.409895,
     lng: -71.128874,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -500,7 +487,6 @@ export const BANDS: Band[] = [
     lat: 42.395524,
     lng: -71.119125,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -528,7 +514,6 @@ export const BANDS: Band[] = [
     lat: 42.397770,
     lng: -71.126144,
     color: "#B47AC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -556,7 +541,6 @@ export const BANDS: Band[] = [
     lat: 42.401674,
     lng: -71.125068,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -584,7 +568,6 @@ export const BANDS: Band[] = [
     lat: 42.396678,
     lng: -71.118748,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/hotlunchband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/434982716_424569540225298_8556123684614716934_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDIxLkMzIn0%3D&amp;_nc_ohc=71O5nWW4b_EQ7kNvwH4yXqb&amp;_nc_oc=AdoBG0avXGdI4FEHQWNRo7jKYRBpDCcuLT9ZCBi35LxLga9WenmxjEbUc1Ax9XVoBvQ&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0Z4KOtnyX4B-vnOtwg6DngJk8qsPJMT04vj2pnENaJ6w&amp;oe=69E81F22"
   },
   {
@@ -599,7 +582,6 @@ export const BANDS: Band[] = [
     lat: 42.398530,
     lng: -71.127164,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -627,7 +609,6 @@ export const BANDS: Band[] = [
     lat: 42.409158,
     lng: -71.129337,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -694,7 +675,6 @@ export const BANDS: Band[] = [
     lat: 42.397253,
     lng: -71.126698,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -761,7 +741,6 @@ export const BANDS: Band[] = [
     lat: 42.410761,
     lng: -71.129642,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -776,7 +755,6 @@ export const BANDS: Band[] = [
     lat: 42.398255,
     lng: -71.125333,
     color: "#D4A03A",
-    instagram: "https://www.instagram.com/ladiasporacombo",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/515096833_17851200222496043_6072673025317113177_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjEuQzMifQ%3D%3D&amp;_nc_ohc=zpUSY7XfYcgQ7kNvwEGq9KV&amp;_nc_oc=AdrH4P2yxa-7LSYqPRdy05pv2yhqFn5YyzcZKqFmJn0Tynev2-tc6UWomcvCyM05OxM&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=WA69yFng_MVW4KdA5lM3zw&amp;_nc_ss=7a289&amp;oh=00_Af15r47Uk0UPU5OMHbmKW8T6AYvitDRiLxMEFSysYNHdWg&amp;oe=69E81578"
   },
   {
@@ -804,7 +782,6 @@ export const BANDS: Band[] = [
     lat: 42.397027,
     lng: -71.125618,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -845,7 +822,6 @@ export const BANDS: Band[] = [
     lat: 42.393596,
     lng: -71.121502,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -873,7 +849,6 @@ export const BANDS: Band[] = [
     lat: 42.396810,
     lng: -71.124407,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -914,7 +889,6 @@ export const BANDS: Band[] = [
     lat: 42.401087,
     lng: -71.129132,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -929,7 +903,6 @@ export const BANDS: Band[] = [
     lat: 42.397804,
     lng: -71.115095,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -970,7 +943,6 @@ export const BANDS: Band[] = [
     lat: 42.408009,
     lng: -71.127665,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -985,7 +957,6 @@ export const BANDS: Band[] = [
     lat: 42.402003,
     lng: -71.127028,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1065,7 +1036,6 @@ export const BANDS: Band[] = [
     lat: 42.398111,
     lng: -71.118889,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1080,7 +1050,6 @@ export const BANDS: Band[] = [
     lat: 42.401710,
     lng: -71.129506,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1095,7 +1064,6 @@ export const BANDS: Band[] = [
     lat: 42.398558,
     lng: -71.123337,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/presentense.trio",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/651365459_18045403004529384_6024387269039742547_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=jlMxjcjOTvwQ7kNvwGOPl6a&amp;_nc_oc=Adp64lC58JF3uJKbpuf01Bc6s7ik4nqoM9N_AxDD5n5qxnrNVukw4ETTpGBfjd42t5o&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=YQl-Xae9zPpJ2AFNTKWrGA&amp;_nc_ss=7a289&amp;oh=00_Af3Z7suSFarfUwQkQCa6D5fhXdLdVKMzQZlACrwdevnXHg&amp;oe=69E835ED"
   },
   {
@@ -1110,7 +1078,6 @@ export const BANDS: Band[] = [
     lat: 42.399140,
     lng: -71.125905,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1138,7 +1105,6 @@ export const BANDS: Band[] = [
     lat: 42.394098,
     lng: -71.124072,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1153,7 +1119,6 @@ export const BANDS: Band[] = [
     lat: 42.403091,
     lng: -71.121769,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1194,7 +1159,6 @@ export const BANDS: Band[] = [
     lat: 42.397349,
     lng: -71.117734,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1209,7 +1173,6 @@ export const BANDS: Band[] = [
     lat: 42.411814,
     lng: -71.127899,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/scamlikelyband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/453894248_798478852401483_5573352750496460391_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjAuQzMifQ%3D%3D&amp;_nc_ohc=3D2anDx9-YQQ7kNvwELg_Fi&amp;_nc_oc=AdqsHDX7aO0FLazeYXNPAQf4xLUOvJYgHNdWlUNu2IFrxKA-cN34OMMDZO9xxDj4-Q8&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0DvBsPo4ggciBjk4pcpjv5xHN9UElaWpS7XuUtbmvyYg&amp;oe=69E80D26"
   },
   {
@@ -1276,7 +1239,6 @@ export const BANDS: Band[] = [
     lat: 42.404642,
     lng: -71.133334,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1304,7 +1266,6 @@ export const BANDS: Band[] = [
     lat: 42.402959,
     lng: -71.122911,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1319,7 +1280,6 @@ export const BANDS: Band[] = [
     lat: 42.397705,
     lng: -71.117734,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1373,7 +1333,6 @@ export const BANDS: Band[] = [
     lat: 42.395824,
     lng: -71.119866,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/themaniaclovesyou",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/92202373_763384954184863_2835628818608160768_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&amp;_nc_ohc=Vneso0fbnx8Q7kNvwHlSduC&amp;_nc_oc=Adpww-MUbMskTLHFwb4HLTGgc53erllkfG6wKg_Et6aYE43SOFlHZcsis9I8MJXDpdg&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af08nK5yNqXZmNx3VUmQQQ_z5p1JGPo88qNsB5w71QpnSA&amp;oe=69E82305"
   },
   {
@@ -1388,7 +1347,6 @@ export const BANDS: Band[] = [
     lat: 42.399598,
     lng: -71.116603,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1468,7 +1426,6 @@ export const BANDS: Band[] = [
     lat: 42.403622,
     lng: -71.126250,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/thevibetribeband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/459639395_537950388640083_6726707182507234329_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=6v5JhI5KoxsQ7kNvwE0i5KF&amp;_nc_oc=AdoRNt7ImPHpwLs3fd597XNsDDCf_iBc39ahrvzgKCNey1E7Ooa2vjVLgI_D9xt6hVs&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af3Wfs9OfsYe2kQ5N1gpg4UDLSNjHsl1m6mQmmdrgVZkrg&amp;oe=69E83863"
   },
   {
@@ -1523,7 +1480,6 @@ export const BANDS: Band[] = [
     lng: -71.124062,
     color: "#C44A3A",
     bandcamp: "https://wariospeedwagon.bandcamp.com",
-    instagram: "https://www.instagram.com/wariospeedwagonofficial",
     image: "https://f4.bcbits.com/img/a3901475766_5.jpg",
   },
   {
@@ -1538,7 +1494,6 @@ export const BANDS: Band[] = [
     lat: 42.394006,
     lng: -71.118674,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1553,7 +1508,6 @@ export const BANDS: Band[] = [
     lat: 42.399429,
     lng: -71.120100,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1607,7 +1561,6 @@ export const BANDS: Band[] = [
     lat: 42.405177,
     lng: -71.126845,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1622,7 +1575,6 @@ export const BANDS: Band[] = [
     lat: 42.399324,
     lng: -71.127749,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1637,7 +1589,6 @@ export const BANDS: Band[] = [
     lat: 42.400306,
     lng: -71.129504,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1680,7 +1631,6 @@ export const BANDS: Band[] = [
     lat: 42.397116,
     lng: -71.117842,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1695,7 +1645,6 @@ export const BANDS: Band[] = [
     lat: 42.399064,
     lng: -71.121938,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1749,7 +1698,6 @@ export const BANDS: Band[] = [
     lat: 42.398337,
     lng: -71.127375,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1790,7 +1738,6 @@ export const BANDS: Band[] = [
     lat: 42.396767,
     lng: -71.117980,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1818,7 +1765,6 @@ export const BANDS: Band[] = [
     lat: 42.394069,
     lng: -71.114549,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1833,7 +1779,6 @@ export const BANDS: Band[] = [
     lat: 42.394848,
     lng: -71.111019,
     color: "#4A7FC4",
-    instagram: "https://instagram.com/aka_rat_dj",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/609688278_17843094798668832_3848891141012713620_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&amp;_nc_ohc=9xJTOuklyCwQ7kNvwHZoGXh&amp;_nc_oc=AdqWD4mBxp72MSgWeDkdkgYaTC1laTUGH6-esGMURoAFvA8XrQ430OdFTahspFftYsI&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=l1tJDNt0f2e2iNvF2-zcyg&amp;_nc_ss=7a289&amp;oh=00_Af2ZoLI37vDmnhT54RISquePj6Fil3-CsMCTU7ZWJ6du6g&amp;oe=69E82F90"
   },
   {
@@ -1861,7 +1806,6 @@ export const BANDS: Band[] = [
     lat: 42.392047,
     lng: -71.109040,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1889,7 +1833,6 @@ export const BANDS: Band[] = [
     lat: 42.390530,
     lng: -71.111784,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1904,7 +1847,6 @@ export const BANDS: Band[] = [
     lat: 42.392689,
     lng: -71.110587,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -1971,7 +1913,6 @@ export const BANDS: Band[] = [
     lat: 42.399169,
     lng: -71.112727,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2025,7 +1966,6 @@ export const BANDS: Band[] = [
     lat: 42.386173,
     lng: -71.110126,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/reel",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/501750829_18507707809009671_1217189560267812448_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=GZI6VzEUBb8Q7kNvwHjtXec&amp;_nc_oc=AdpbURC772RGZVuUvpiUH-ayHf-_CbBbRy4DZLXbZDATHud_xej24nB6REY1JI6o0fk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=aZcmCc-65pY52_FxJeCuXA&amp;_nc_ss=7a289&amp;oh=00_Af1G0N9YRTvhpFumVOxwoif4wokDJBsbP4-kEHiPnqRtlw&amp;oe=69E83AB0"
   },
   {
@@ -2040,7 +1980,6 @@ export const BANDS: Band[] = [
     lat: 42.387267,
     lng: -71.111734,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2081,7 +2020,6 @@ export const BANDS: Band[] = [
     lat: 42.387855,
     lng: -71.106292,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2096,7 +2034,6 @@ export const BANDS: Band[] = [
     lat: 42.384618,
     lng: -71.110938,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2111,7 +2048,6 @@ export const BANDS: Band[] = [
     lat: 42.392244,
     lng: -71.115646,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2126,7 +2062,6 @@ export const BANDS: Band[] = [
     lat: 42.391348,
     lng: -71.116653,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2193,7 +2128,6 @@ export const BANDS: Band[] = [
     lat: 42.388379,
     lng: -71.104851,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2223,7 +2157,6 @@ export const BANDS: Band[] = [
     lat: 42.388211,
     lng: -71.111008,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2238,7 +2171,6 @@ export const BANDS: Band[] = [
     lat: 42.384412,
     lng: -71.109324,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2266,7 +2198,6 @@ export const BANDS: Band[] = [
     lat: 42.397048,
     lng: -71.113293,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2307,7 +2238,6 @@ export const BANDS: Band[] = [
     lat: 42.389341,
     lng: -71.117439,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2322,7 +2252,6 @@ export const BANDS: Band[] = [
     lat: 42.388394,
     lng: -71.107820,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/jetsettheband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/601529230_17869711446480932_2371562410421331588_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTYuQzMifQ%3D%3D&amp;_nc_ohc=9hAkGhbi7bwQ7kNvwF3cT4S&amp;_nc_oc=Adp_jQPEfQaJgb_kXS8HobR8KSC1esYs2jcGDc7sMTWlZWCWTHbwi1dwy2bEuBEGw-g&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=n7d9xkctxE4ZSkdRE4nARg&amp;_nc_ss=7a289&amp;oh=00_Af2SL_rVNzwFPDiyJ0kRifT5H1GbuFL_jkZnhr2-pQYT7Q&amp;oe=69E82CFA"
   },
   {
@@ -2337,7 +2266,6 @@ export const BANDS: Band[] = [
     lat: 42.396085,
     lng: -71.113486,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/joannetheband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/491580744_18465967072069333_1092063817544666804_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=K8SCzoEZgU0Q7kNvwFf5g-1&amp;_nc_oc=AdrD6D6RrshUX927VO2S0TKZ6gMCyAb8ylHpEUjFfkAoxH5EvUTb8TyuKWdmqbpQOM0&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=QKjkx2EttKKZWvnWEpkQGA&amp;_nc_ss=7a289&amp;oh=00_Af31ucYHMnTa9GjyxTSNRcc4yXwRCYKJBzeOTDRInHv-Pg&amp;oe=69E8302C"
   },
   {
@@ -2365,7 +2293,6 @@ export const BANDS: Band[] = [
     lat: 42.391336,
     lng: -71.118097,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2380,7 +2307,6 @@ export const BANDS: Band[] = [
     lat: 42.395370,
     lng: -71.113845,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2395,7 +2321,6 @@ export const BANDS: Band[] = [
     lat: 42.391376,
     lng: -71.105707,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2423,7 +2348,6 @@ export const BANDS: Band[] = [
     lat: 42.396164,
     lng: -71.110884,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2438,7 +2362,6 @@ export const BANDS: Band[] = [
     lat: 42.393031,
     lng: -71.115362,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/lunaticneighborband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/357880676_800984721562185_4654264537797004359_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTIuQzMifQ%3D%3D&amp;_nc_ohc=ELFuhKEMkXcQ7kNvwGLEVZg&amp;_nc_oc=Ado07MsLaePovCqTwBmD-aEWvwm5Y-l8dbZz-FbjM4bLv5OrY0d8VnKUZGIpsS0_Y7A&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af271ukjKkLBORsC8JH_2yWehJsGr4uro0YrnhsSF-qV6A&amp;oe=69E829BB"
   },
   {
@@ -2453,7 +2376,6 @@ export const BANDS: Band[] = [
     lat: 42.393650,
     lng: -71.111864,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/andrewmm_music",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/466024017_931722175680314_7273898818308401775_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=9DQ_uvmBQcQQ7kNvwHx-_Bi&amp;_nc_oc=Adq_p98vpruh56QU2Eqxwdc_kT22Lo2gbQt6WgVobazlkxbdSi3Zex2aVZbBlyu4wmE&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af35esMCXT0dHqjEeOqFDC8UjFd3cJTnWuUL25ObaK1gxA&amp;oe=69E83690"
   },
   {
@@ -2468,7 +2390,6 @@ export const BANDS: Band[] = [
     lat: 42.397470,
     lng: -71.113398,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/mailmandan_music",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/503987660_17845801050511201_7210952700599414588_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=BzF1RAVXVwsQ7kNvwHfwhs_&amp;_nc_oc=Adq6cJ5ppjYrqHUU_g6ttFmOuM2UImKbAET_oHNZWTbOu4O_TaJN_QiSuHHdK-FZAOY&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=M8KjtBSdeaWZMQ65O8Ldmg&amp;_nc_ss=7a289&amp;oh=00_Af2ZH3t--LutXwoj1q9xK52-XOGvQBUG6C2aHH2Ea9Nx0Q&amp;oe=69E83628"
   },
   {
@@ -2548,7 +2469,6 @@ export const BANDS: Band[] = [
     lat: 42.385019,
     lng: -71.107695,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2577,7 +2497,6 @@ export const BANDS: Band[] = [
     lng: -71.114253,
     color: "#C44A3A",
     bandcamp: "https://ohmfoam.bandcamp.com",
-    instagram: "https://www.instagram.com/ohm.foam",
     image: "https://f4.bcbits.com/img/0042325043_23.jpg",
   },
   {
@@ -2592,7 +2511,6 @@ export const BANDS: Band[] = [
     lat: 42.381819,
     lng: -71.108341,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2646,7 +2564,6 @@ export const BANDS: Band[] = [
     lat: 42.388899,
     lng: -71.112100,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2687,7 +2604,6 @@ export const BANDS: Band[] = [
     lat: 42.393441,
     lng: -71.104629,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2702,7 +2618,6 @@ export const BANDS: Band[] = [
     lat: 42.390057,
     lng: -71.116754,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2717,7 +2632,6 @@ export const BANDS: Band[] = [
     lat: 42.395387,
     lng: -71.112641,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2758,7 +2672,6 @@ export const BANDS: Band[] = [
     lat: 42.396907,
     lng: -71.097711,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -2812,7 +2725,6 @@ export const BANDS: Band[] = [
     lat: 42.397810,
     lng: -71.111362,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/sweeneyandsweeney",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/571858524_17872867623449532_2849882976093403798_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&amp;_nc_ohc=WyivczRrgx0Q7kNvwHuUcE5&amp;_nc_oc=Adr7nR-P72zXcbdSjeDGjlclxztvaGf3uPsIz6DTEsfw5CNk95hX6Nc2ZrIKbjgA5Sk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=IeYvh57sGlrvB1B7FwuRUw&amp;_nc_ss=7a289&amp;oh=00_Af2vtj3iTl4mqIZVvESBkAvAi_B2OfAbvnoa7qMg8pFNzA&amp;oe=69E821AA"
   },
   {
@@ -2840,7 +2752,6 @@ export const BANDS: Band[] = [
     lat: 42.395120,
     lng: -71.111990,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/theallstonratproblem",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/319585568_686696072905757_7948627544573052810_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=hpXjmcQcsskQ7kNvwE8MvGx&amp;_nc_oc=AdpOAqNlQPMJAb54VdibZ_XIyCjIYC-Ckh26jz1QL3EHOaEiQxXMlmbSu3GqW2yQtlc&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af3gs31ZwGDE0gyPsVDVqfUz9B5JONhJVNCt8yIrBix8WQ&amp;oe=69E807D1"
   },
   {
@@ -2907,7 +2818,6 @@ export const BANDS: Band[] = [
     lat: 42.394687,
     lng: -71.112485,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3001,7 +2911,6 @@ export const BANDS: Band[] = [
     lng: -71.112719,
     color: "#C44A3A",
     bandcamp: "https://theorrs.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0024295860_23.jpg",
     spotify: "https://open.spotify.com/artist/2Y1CgrnvVxyWVTyZoqZ3LR",
   },
@@ -3043,7 +2952,6 @@ export const BANDS: Band[] = [
     lat: 42.390946,
     lng: -71.110630,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3058,7 +2966,6 @@ export const BANDS: Band[] = [
     lat: 42.390307,
     lng: -71.105599,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3087,7 +2994,6 @@ export const BANDS: Band[] = [
     lng: -71.112551,
     color: "#C44A3A",
     bandcamp: "https://thesestainsarewhoiam.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/a2762401002_5.jpg",
   },
   {
@@ -3115,7 +3021,6 @@ export const BANDS: Band[] = [
     lat: 42.388899,
     lng: -71.112100,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3130,7 +3035,6 @@ export const BANDS: Band[] = [
     lat: 42.391165,
     lng: -71.115405,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3158,7 +3062,6 @@ export const BANDS: Band[] = [
     lat: 42.387963,
     lng: -71.113474,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3173,7 +3076,6 @@ export const BANDS: Band[] = [
     lat: 42.385202,
     lng: -71.111854,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3188,7 +3090,6 @@ export const BANDS: Band[] = [
     lat: 42.393808,
     lng: -71.112261,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3230,7 +3131,6 @@ export const BANDS: Band[] = [
     lng: -71.112981,
     color: "#C44A3A",
     bandcamp: "https://webroketheweather.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0035231526_23.jpg",
     spotify: "https://open.spotify.com/artist/3UVfNx8oBpDvldYKR2i8V1",
   },
@@ -3272,7 +3172,6 @@ export const BANDS: Band[] = [
     lat: 42.393513,
     lng: -71.103335,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3300,7 +3199,6 @@ export const BANDS: Band[] = [
     lat: 42.393140,
     lng: -71.116909,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3315,7 +3213,6 @@ export const BANDS: Band[] = [
     lat: 42.392790,
     lng: -71.114553,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3330,7 +3227,6 @@ export const BANDS: Band[] = [
     lat: 42.390925,
     lng: -71.112822,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3345,7 +3241,6 @@ export const BANDS: Band[] = [
     lat: 42.393232,
     lng: -71.115896,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3360,7 +3255,6 @@ export const BANDS: Band[] = [
     lat: 42.388935,
     lng: -71.113502,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3375,7 +3269,6 @@ export const BANDS: Band[] = [
     lat: 42.394043,
     lng: -71.104098,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3390,7 +3283,6 @@ export const BANDS: Band[] = [
     lat: 42.390226,
     lng: -71.114818,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3405,7 +3297,6 @@ export const BANDS: Band[] = [
     lat: 42.390176,
     lng: -71.104373,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3420,7 +3311,6 @@ export const BANDS: Band[] = [
     lat: 42.390432,
     lng: -71.104012,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/nearestneighbor.band",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/490220081_9207091216084664_4323025085507025581_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=4A0N1BA44wwQ7kNvwFMa_n8&amp;_nc_oc=AdqVbmL31_zNDvtImYu7px76g0V71Jb-UVH5Zk92hDKkg4_p45VrAzQau-s9hlGlZAk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af2_-eVkDSeJ1SC-x2qp4EgV0VIwDB9lMLxbSkODAqm35Q&amp;oe=69E806AE"
   },
   {
@@ -3435,7 +3325,6 @@ export const BANDS: Band[] = [
     lat: 42.397100,
     lng: -71.105530,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3450,7 +3339,6 @@ export const BANDS: Band[] = [
     lat: 42.385855,
     lng: -71.112171,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/reel",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/501750829_18507707809009671_1217189560267812448_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=GZI6VzEUBb8Q7kNvwHjtXec&amp;_nc_oc=AdpbURC772RGZVuUvpiUH-ayHf-_CbBbRy4DZLXbZDATHud_xej24nB6REY1JI6o0fk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=OcOJl-Da6q8U1Ycq0jJo2g&amp;_nc_ss=7a289&amp;oh=00_Af1ShzfSNDG77nKE9ulcWq29INsQsLVKCTFP2SbNAyWmTg&amp;oe=69E83AB0"
   },
   {
@@ -3465,7 +3353,6 @@ export const BANDS: Band[] = [
     lat: 42.391450,
     lng: -71.117032,
     color: "#B47AC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3480,7 +3367,6 @@ export const BANDS: Band[] = [
     lat: 42.392047,
     lng: -71.109040,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3495,7 +3381,6 @@ export const BANDS: Band[] = [
     lat: 42.387855,
     lng: -71.106292,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3510,7 +3395,6 @@ export const BANDS: Band[] = [
     lat: 42.396910,
     lng: -71.112923,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3525,7 +3409,6 @@ export const BANDS: Band[] = [
     lat: 42.388430,
     lng: -71.104979,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3540,7 +3423,6 @@ export const BANDS: Band[] = [
     lat: 42.392680,
     lng: -71.108577,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/featherweatherband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/496868661_17882297643285795_4000950871803203982_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjQuQzMifQ%3D%3D&amp;_nc_ohc=SU5WWTWgbTIQ7kNvwFVVkph&amp;_nc_oc=AdpQ-tm1umrjFBvGNV91Cxq4sV62neD9Jvn80JxeltxcwE_0yBv58G8MEBW1cJXZWdg&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=q8rKi32oIOkLNiaHckCIfQ&amp;_nc_ss=7a289&amp;oh=00_Af1GdVu6MG1MqKGJyHWDX3dSoJPgEgBVYAyJvdOZCtgXGg&amp;oe=69E81C0A"
   },
   {
@@ -3555,7 +3437,6 @@ export const BANDS: Band[] = [
     lat: 42.384736,
     lng: -71.108633,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3570,7 +3451,6 @@ export const BANDS: Band[] = [
     lat: 42.392037,
     lng: -71.103140,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/jumemars",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/20766922_1109211969215265_6535705172306296832_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=AXbj_WayG-MQ7kNvwHa99jW&amp;_nc_oc=Adrp6KBFoN5fBYJngaGp0-wPE6_Gi6bNIS0oADZ8E1LUI-PtRHN9tUF2Q1MoPmi8ImM&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af11GweBQYYnlhcFBHlOP3snlIsCNd-ARZ_BlAnZ9_Ib7g&amp;oe=69E81903"
   },
   {
@@ -3585,7 +3465,6 @@ export const BANDS: Band[] = [
     lat: 42.387529,
     lng: -71.110965,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/literally_nobody____",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/669948925_18031431230800224_8226553081920922680_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=TxMHbkxA8xQQ7kNvwEefxPf&amp;_nc_oc=AdoDo-VZaL2U9UmE9kOsX7KynAzPP0aBOINjDTupGoJfbYq9a9eD4O8no4hAjk89lss&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=j1sfDaC7YNLnOWHgIvlP6A&amp;_nc_ss=7a289&amp;oh=00_Af1lnpomyU67Dh5NkA_BxZgmREeicowSdk4uStvtrY35jg&amp;oe=69E80886"
   },
   {
@@ -3601,7 +3480,6 @@ export const BANDS: Band[] = [
     lng: -71.109819,
     color: "#C44A3A",
     bandcamp: "https://myopicmystic.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0039403064_23.jpg",
   },
   {
@@ -3616,7 +3494,6 @@ export const BANDS: Band[] = [
     lat: 42.391909,
     lng: -71.113583,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3631,7 +3508,6 @@ export const BANDS: Band[] = [
     lat: 42.393551,
     lng: -71.110146,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3647,7 +3523,6 @@ export const BANDS: Band[] = [
     lng: -71.110938,
     color: "#C44A3A",
     bandcamp: "https://stateparque.bandcamp.com",
-    instagram: "https://www.instagram.com/p",
     image: "https://f4.bcbits.com/img/0039143786_23.jpg",
   },
   {
@@ -3662,7 +3537,6 @@ export const BANDS: Band[] = [
     lat: 42.399230,
     lng: -71.111846,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3677,7 +3551,6 @@ export const BANDS: Band[] = [
     lat: 42.387291,
     lng: -71.106702,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3692,7 +3565,6 @@ export const BANDS: Band[] = [
     lat: 42.381963,
     lng: -71.108942,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3707,7 +3579,6 @@ export const BANDS: Band[] = [
     lat: 42.386044,
     lng: -71.112551,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3722,7 +3593,6 @@ export const BANDS: Band[] = [
     lat: 42.391545,
     lng: -71.116521,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3737,7 +3607,6 @@ export const BANDS: Band[] = [
     lat: 42.379239,
     lng: -71.103969,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3752,7 +3621,6 @@ export const BANDS: Band[] = [
     lat: 42.382034,
     lng: -71.093357,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/acid.basket",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/383229900_343198268056243_6873824215522917173_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODguQzMifQ%3D%3D&amp;_nc_ohc=ReQ3j4XeZFEQ7kNvwF89M7J&amp;_nc_oc=AdrSASW8gjgSVt9YvLBH9FVeIk89w5be0gFB92zYo3Qbn2f5kSoFVYNwh2GDV4R4xeQ&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af3HjNNBNNREmDShQzYpDCy2GHMxkQ65gh2tCyYAhjhRPQ&amp;oe=69E81010"
   },
   {
@@ -3768,7 +3636,6 @@ export const BANDS: Band[] = [
     lng: -71.101674,
     color: "#C44A3A",
     bandcamp: "https://ajdatheturkishqueen.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/a1593396028_5.jpg",
     spotify: "https://open.spotify.com/artist/6NMzdhHRVGagSrwNwW91Rt",
   },
@@ -3784,7 +3651,6 @@ export const BANDS: Band[] = [
     lat: 42.379761,
     lng: -71.092355,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3799,7 +3665,6 @@ export const BANDS: Band[] = [
     lat: 42.378109,
     lng: -71.097705,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3814,7 +3679,6 @@ export const BANDS: Band[] = [
     lat: 42.385562,
     lng: -71.097103,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3829,7 +3693,6 @@ export const BANDS: Band[] = [
     lat: 42.383884,
     lng: -71.095604,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3844,7 +3707,6 @@ export const BANDS: Band[] = [
     lat: 42.384366,
     lng: -71.090391,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3859,7 +3721,6 @@ export const BANDS: Band[] = [
     lat: 42.380107,
     lng: -71.094471,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3874,7 +3735,6 @@ export const BANDS: Band[] = [
     lat: 42.382961,
     lng: -71.091953,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3889,7 +3749,6 @@ export const BANDS: Band[] = [
     lat: 42.386299,
     lng: -71.104269,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3904,7 +3763,6 @@ export const BANDS: Band[] = [
     lat: 42.381199,
     lng: -71.092145,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3919,7 +3777,6 @@ export const BANDS: Band[] = [
     lat: 42.386200,
     lng: -71.103126,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3934,7 +3791,6 @@ export const BANDS: Band[] = [
     lat: 42.386345,
     lng: -71.100257,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3949,7 +3805,6 @@ export const BANDS: Band[] = [
     lat: 42.380837,
     lng: -71.104887,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3964,7 +3819,6 @@ export const BANDS: Band[] = [
     lat: 42.382823,
     lng: -71.102851,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/changeorderband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/483460942_1265802211543313_3006148883876892578_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=fbCoWBg_o4wQ7kNvwH3OdXw&amp;_nc_oc=AdpND3XHGf76ebC89Lhv4ZIoRJEqDZzmyFzYDEGp9J8CQ-t9GwmFthqdF5pmuUdzbXE&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af10BlT5UEMrX2ai83slfStM2NSJTD8b-Vf4SIAj3jwYGA&amp;oe=69E8243F"
   },
   {
@@ -3979,7 +3833,6 @@ export const BANDS: Band[] = [
     lat: 42.388087,
     lng: -71.092164,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -3994,7 +3847,6 @@ export const BANDS: Band[] = [
     lat: 42.385376,
     lng: -71.084431,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/chefdumbbirch",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/491439608_2028878830955548_1702376798333900258_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=ipOFJjZ-lXIQ7kNvwHvnFqT&amp;_nc_oc=Adpz8ub13Z4wsALAVn991kSJshO4SmFwKkr5EYR8R1XuNTdMBOCKNa9SkpV-qTBu40o&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0dXApIYbkw1Mwa798fAxska-ytGTctXIcaySYkvZfbbQ&amp;oe=69E83A3F"
   },
   {
@@ -4009,7 +3861,6 @@ export const BANDS: Band[] = [
     lat: 42.378834,
     lng: -71.103014,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/circuit.jumper",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/660152177_17875502475565465_5972350374916151395_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&amp;_nc_ohc=yLV0uVZGIBIQ7kNvwEsCWpi&amp;_nc_oc=AdokajCDYXFICombTJ-mEcFUAjjLs_DVT6MQsLN7DcUlpeJ7xB6lwHiygSuCXunHvAE&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=nvNQXrVPhLDZkk0ZYiO1jA&amp;_nc_ss=7a289&amp;oh=00_Af3_ktZ9KzZZA0vBpQj9e_1IZmgvQ0_UrHjOKsnJQc78ug&amp;oe=69E818E7"
   },
   {
@@ -4024,7 +3875,6 @@ export const BANDS: Band[] = [
     lat: 42.377330,
     lng: -71.106241,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/crossingthe_",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/479186565_511217618687112_6943187724399601764_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=gS8i5t5LpEoQ7kNvwGoySv1&amp;_nc_oc=AdrMc8T-YTRhUn1J2U7_BYqOaqG55uGDfm_FX5FogGC5IKb3sy7kEOKOsRwf2zeg3OY&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af2AoQUY1_fLPQMfi2-WtniwvAHZmKwXOIXUpYPJyCkvxA&amp;oe=69E826E8"
   },
   {
@@ -4040,7 +3890,6 @@ export const BANDS: Band[] = [
     lng: -71.097162,
     color: "#C44A3A",
     bandcamp: "https://crowfollow.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0026131838_23.jpg",
     spotify: "https://open.spotify.com/artist/4X7jpzB8ZYEAv2gnRi4mFa",
   },
@@ -4056,7 +3905,6 @@ export const BANDS: Band[] = [
     lat: 42.378674,
     lng: -71.102352,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4071,7 +3919,6 @@ export const BANDS: Band[] = [
     lat: 42.384868,
     lng: -71.102736,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4086,7 +3933,6 @@ export const BANDS: Band[] = [
     lat: 42.383125,
     lng: -71.097392,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/reel",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/501750829_18507707809009671_1217189560267812448_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=GZI6VzEUBb8Q7kNvwHjtXec&amp;_nc_oc=AdpbURC772RGZVuUvpiUH-ayHf-_CbBbRy4DZLXbZDATHud_xej24nB6REY1JI6o0fk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=N2TwsFuTpmt_rnsEqinrBA&amp;_nc_ss=7a289&amp;oh=00_Af0fihFjXVhQJkLOzDoh9c6cKukqOMfZI5jEoA909jW1ew&amp;oe=69E83AB0"
   },
   {
@@ -4101,7 +3947,6 @@ export const BANDS: Band[] = [
     lat: 42.384247,
     lng: -71.098433,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/misslipsdj",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/494283135_17875185042334811_4923341708491514676_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=Px31lFQjOG8Q7kNvwHKg4Ms&amp;_nc_oc=AdpnrWBPIjN7D8OhiFdUbCk_Q7JEv0aNrnDSXk-Bwm61QFqkMDccBd2WZL12LyqDjmg&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=j13FHrKl9H5aK1thDrbSjQ&amp;_nc_ss=7a289&amp;oh=00_Af29Y-SHQH_8lqqJf9U4rREUganzim1lrqROo5d9l8GhpQ&amp;oe=69E83107"
   },
   {
@@ -4116,7 +3961,6 @@ export const BANDS: Band[] = [
     lat: 42.377644,
     lng: -71.099955,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4132,7 +3976,6 @@ export const BANDS: Band[] = [
     lng: -71.104324,
     color: "#C44A3A",
     bandcamp: "https://doublestarband.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0023662191_23.jpg",
   },
   {
@@ -4147,7 +3990,6 @@ export const BANDS: Band[] = [
     lat: 42.388617,
     lng: -71.094821,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4162,7 +4004,6 @@ export const BANDS: Band[] = [
     lat: 42.381380,
     lng: -71.091720,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4177,7 +4018,6 @@ export const BANDS: Band[] = [
     lat: 42.378014,
     lng: -71.102365,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/familymtgband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/626278597_17874447837489075_1717111968439385633_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MDUuQzMifQ%3D%3D&amp;_nc_ohc=JGym5aCPy24Q7kNvwFEFOAN&amp;_nc_oc=Adq9z6OhD2tyJLY8eg4BuKlM6en0lWmPf3ksybFvrh2udEzl_cCxsrQ9FJFuBpofzms&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=5L2qwoCHM9U4Aqo9UIDPiw&amp;_nc_ss=7a289&amp;oh=00_Af3Nph6pi73qAk-lN-9UpRlPU8biAJRWbu9pOq13GafL9Q&amp;oe=69E83369"
   },
   {
@@ -4192,7 +4032,6 @@ export const BANDS: Band[] = [
     lat: 42.389163,
     lng: -71.098659,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4207,7 +4046,6 @@ export const BANDS: Band[] = [
     lat: 42.382367,
     lng: -71.094706,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4222,7 +4060,6 @@ export const BANDS: Band[] = [
     lat: 42.377731,
     lng: -71.101751,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/p",
   },
   {
     id: 293,
@@ -4236,7 +4073,6 @@ export const BANDS: Band[] = [
     lat: 42.376309,
     lng: -71.100955,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4251,7 +4087,6 @@ export const BANDS: Band[] = [
     lat: 42.381597,
     lng: -71.085884,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4266,7 +4101,6 @@ export const BANDS: Band[] = [
     lat: 42.376825,
     lng: -71.097499,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4281,7 +4115,6 @@ export const BANDS: Band[] = [
     lat: 42.379284,
     lng: -71.100625,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/garlic_the_band",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/538080385_17845885716552974_1745414545114901046_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=S9mMuB-gqk8Q7kNvwF9yKl1&amp;_nc_oc=Adrl831Al0NmKiRi8LtDmSNZS-e3QXEcJdO8KWKHKyhAZ3wwX3GrV039JJZOWwBE3gY&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=6dC59OPzbG61gjeiGevB1A&amp;_nc_ss=7a289&amp;oh=00_Af1XfMoux0CfBs4NX87a0hZL7oWlNHT1dviX5ryTnvqJbA&amp;oe=69E82581"
   },
   {
@@ -4296,7 +4129,6 @@ export const BANDS: Band[] = [
     lat: 42.380589,
     lng: -71.094912,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/glutty_band",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/403854566_1502167533904748_4369714376696576633_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&amp;_nc_ohc=QNoPSVdBT_oQ7kNvwFYC1i3&amp;_nc_oc=Adrn7andjTa3zygWe-whBg_xgRKbSFfDac59r_NcXOHlAigB23wUbfrFj_1K_19OZ7g&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af32hiiMov6d-VoUmag2rHLyc2OMqCKwk5yc3VEQ__TXig&amp;oe=69E81751"
   },
   {
@@ -4311,7 +4143,6 @@ export const BANDS: Band[] = [
     lat: 42.375731,
     lng: -71.101309,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4326,7 +4157,6 @@ export const BANDS: Band[] = [
     lat: 42.378254,
     lng: -71.103015,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4341,7 +4171,6 @@ export const BANDS: Band[] = [
     lat: 42.377632,
     lng: -71.102572,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4356,7 +4185,6 @@ export const BANDS: Band[] = [
     lat: 42.384388,
     lng: -71.104770,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4371,7 +4199,6 @@ export const BANDS: Band[] = [
     lat: 42.383597,
     lng: -71.097162,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4386,7 +4213,6 @@ export const BANDS: Band[] = [
     lat: 42.379405,
     lng: -71.105917,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/gsdsoundclub",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/424433559_1596451667828064_6073238879612592937_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=zwAMPwEyuRQQ7kNvwGSKbJH&amp;_nc_oc=AdrXOtpFiA1cC11A_hhyq2o9QuE8csyNlWPIJlR7ZuQ7BWGS4WP9xHcdSbiIZCVno-s&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0gWulYGwEVvGgF30UErNkJO1Xxl_1y4ep5F4pao720FQ&amp;oe=69E820FD"
   },
   {
@@ -4401,7 +4227,6 @@ export const BANDS: Band[] = [
     lat: 42.384875,
     lng: -71.103992,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4416,7 +4241,6 @@ export const BANDS: Band[] = [
     lat: 42.383744,
     lng: -71.104196,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4431,7 +4255,6 @@ export const BANDS: Band[] = [
     lat: 42.375720,
     lng: -71.098307,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4446,7 +4269,6 @@ export const BANDS: Band[] = [
     lat: 42.383735,
     lng: -71.093196,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4461,7 +4283,6 @@ export const BANDS: Band[] = [
     lat: 42.383006,
     lng: -71.094869,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4476,7 +4297,6 @@ export const BANDS: Band[] = [
     lat: 42.388844,
     lng: -71.094278,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4491,7 +4311,6 @@ export const BANDS: Band[] = [
     lat: 42.381914,
     lng: -71.095644,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4506,7 +4325,6 @@ export const BANDS: Band[] = [
     lat: 42.389948,
     lng: -71.087106,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/litradiator",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/441432237_951399926433970_4156702230746945170_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=rqgeT9z8LdUQ7kNvwGSlFXT&amp;_nc_oc=Adre2lpvASpfjRe25BPsDyH4ewIAvi6UqXBLay2ZBLMvOlT-7ouUKK0Dpi2JusO5Hfo&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af3yYhsH8T1IIfsKi6bOvZD_7uback7A8ZtWAayLxt7P1Q&amp;oe=69E807C1"
   },
   {
@@ -4521,7 +4339,6 @@ export const BANDS: Band[] = [
     lat: 42.380184,
     lng: -71.105997,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4536,7 +4353,6 @@ export const BANDS: Band[] = [
     lat: 42.378501,
     lng: -71.104251,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/lobsterilegal",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/561815166_17924322384140058_1085791343589142694_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDcyLkMzIn0%3D&amp;_nc_ohc=Mjhb_O8SfF8Q7kNvwF3wxBQ&amp;_nc_oc=AdoShCIQ5eGrDePt1pt6OFThLi_-goQN388BoE3uZUk40ayf1kG6RLgf7dD6O80hvhE&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=rxOjt4DpzChTzNmcjtaBGw&amp;_nc_ss=7a289&amp;oh=00_Af0eFTHDqDtxL9146r76yhDpuHKOlTHU0zuWG3IpCIcntA&amp;oe=69E81DB6"
   },
   {
@@ -4551,7 +4367,6 @@ export const BANDS: Band[] = [
     lat: 42.391148,
     lng: -71.097710,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4566,7 +4381,6 @@ export const BANDS: Band[] = [
     lat: 42.383461,
     lng: -71.107506,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4581,7 +4395,6 @@ export const BANDS: Band[] = [
     lat: 42.377134,
     lng: -71.099154,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4596,7 +4409,6 @@ export const BANDS: Band[] = [
     lat: 42.386922,
     lng: -71.101785,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4611,7 +4423,6 @@ export const BANDS: Band[] = [
     lat: 42.382189,
     lng: -71.101490,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4626,7 +4437,6 @@ export const BANDS: Band[] = [
     lat: 42.380162,
     lng: -71.092976,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4641,7 +4451,6 @@ export const BANDS: Band[] = [
     lat: 42.390886,
     lng: -71.100548,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4656,7 +4465,6 @@ export const BANDS: Band[] = [
     lat: 42.381963,
     lng: -71.104755,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/midnightmotionband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/164327449_752597705622558_751660656970913007_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43OTkuQzMifQ%3D%3D&amp;_nc_ohc=pUnNogsJXAEQ7kNvwGt02LQ&amp;_nc_oc=AdrXGTTGfpfaMDfJXUqS8yhZCJ73M2Al048HxMvzwe8Is6S1bKHwKg1bYWiU8xdOlhA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af1AaegVMyptppuIBqDOdVj2SKy_y2Qqz-5wcsPaJYSx1Q&amp;oe=69E822B9"
   },
   {
@@ -4671,7 +4479,6 @@ export const BANDS: Band[] = [
     lat: 42.388051,
     lng: -71.099881,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4686,7 +4493,6 @@ export const BANDS: Band[] = [
     lat: 42.380100,
     lng: -71.103087,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4701,7 +4507,6 @@ export const BANDS: Band[] = [
     lat: 42.382278,
     lng: -71.100232,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4716,7 +4521,6 @@ export const BANDS: Band[] = [
     lat: 42.381677,
     lng: -71.098564,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4732,7 +4536,6 @@ export const BANDS: Band[] = [
     lng: -71.103014,
     color: "#C44A3A",
     bandcamp: "https://orbiterbos.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/a2105502916_5.jpg",
   },
   {
@@ -4747,7 +4550,6 @@ export const BANDS: Band[] = [
     lat: 42.378537,
     lng: -71.104527,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4762,7 +4564,6 @@ export const BANDS: Band[] = [
     lat: 42.386227,
     lng: -71.101200,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4777,7 +4578,6 @@ export const BANDS: Band[] = [
     lat: 42.377415,
     lng: -71.103313,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4792,7 +4592,6 @@ export const BANDS: Band[] = [
     lat: 42.374616,
     lng: -71.095033,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/reel",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/501750829_18507707809009671_1217189560267812448_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=GZI6VzEUBb8Q7kNvwHjtXec&amp;_nc_oc=AdpbURC772RGZVuUvpiUH-ayHf-_CbBbRy4DZLXbZDATHud_xej24nB6REY1JI6o0fk&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=z02ME6lAmTyVJ97RwThHbQ&amp;_nc_ss=7a289&amp;oh=00_Af2VvJRL_LxlO0KkWCl5JUPs3frgKq6bY6KZlpOkauHLMw&amp;oe=69E83AB0"
   },
   {
@@ -4807,7 +4606,6 @@ export const BANDS: Band[] = [
     lat: 42.392038,
     lng: -71.096048,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4822,7 +4620,6 @@ export const BANDS: Band[] = [
     lat: 42.389453,
     lng: -71.100591,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4837,7 +4634,6 @@ export const BANDS: Band[] = [
     lat: 42.382928,
     lng: -71.080096,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4852,7 +4648,6 @@ export const BANDS: Band[] = [
     lat: 42.377622,
     lng: -71.103037,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4867,7 +4662,6 @@ export const BANDS: Band[] = [
     lat: 42.382826,
     lng: -71.094049,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4882,7 +4676,6 @@ export const BANDS: Band[] = [
     lat: 42.379576,
     lng: -71.096271,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/rubygoldentiger",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/477608622_18037111976525717_7993232035937423242_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDguQzMifQ%3D%3D&amp;_nc_ohc=j-FPIxQLm5YQ7kNvwGunS98&amp;_nc_oc=AdqYk3FRPMHYGT5FaZVQZceBDU48SuBo-k96qlfipYT29H4w2oK4fae1oTHjmoAM_gg&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=OoKAO0XNWUeKoAwwf5nPVg&amp;_nc_ss=7a289&amp;oh=00_Af2F163GjtOc7vxRt_5diNplMWvDspdpe8OmuFODMNQiCA&amp;oe=69E813BE"
   },
   {
@@ -4897,7 +4690,6 @@ export const BANDS: Band[] = [
     lat: 42.378834,
     lng: -71.103014,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4912,7 +4704,6 @@ export const BANDS: Band[] = [
     lat: 42.383345,
     lng: -71.080634,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4927,7 +4718,6 @@ export const BANDS: Band[] = [
     lat: 42.382464,
     lng: -71.093481,
     color: "#5AABB4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4942,7 +4732,6 @@ export const BANDS: Band[] = [
     lat: 42.393073,
     lng: -71.096426,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -4957,7 +4746,6 @@ export const BANDS: Band[] = [
     lat: 42.383622,
     lng: -71.085059,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/soloonar",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/456887477_793756519333112_5449604090568413178_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=J9VJSXREl4IQ7kNvwHxR107&amp;_nc_oc=Adr4WRsVM8LS6gYACN7hoap7aiYog1_UNUEDtFd1LODYJrJlm5w3vNfdJrznCDkl_GQ&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af1GiZ2GQGBVAXE0rDonZQ-niLbrhWEkQxTQZ2cn5TdAAA&amp;oe=69E83668"
   },
   {
@@ -4972,7 +4760,6 @@ export const BANDS: Band[] = [
     lat: 42.375279,
     lng: -71.099244,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/soulo_band",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/653699337_17932367838198597_5327458760499022969_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=E027QKLWXTsQ7kNvwG212p3&amp;_nc_oc=AdpzQqj_bQmuC-k8NaXeVXJ2w07vzVNPAPl71iNw795wbxZnYbPXQZzF3TBQTVol9zA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=BkOcUbKb_MxEpwX-t5rHhg&amp;_nc_ss=7a289&amp;oh=00_Af31Pag0-54-QfqLgm0SEdfRr9d5bxlwY3YGxa3ymJmP0Q&amp;oe=69E82159"
   },
   {
@@ -4987,7 +4774,6 @@ export const BANDS: Band[] = [
     lat: 42.382467,
     lng: -71.099630,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5002,7 +4788,6 @@ export const BANDS: Band[] = [
     lat: 42.379870,
     lng: -71.105020,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/steep_______",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/426121167_1628551821010933_685792517745393080_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&amp;_nc_ohc=Wa_BRXIpGq0Q7kNvwEXg0dA&amp;_nc_oc=Adp4WX6fXldmiilNteDIQIyfnUhis6gLFjR2zTQ9y7iYgZC8G_2puKm8PmXl3skblkI&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0Y0T1gwjb3k3IGrbXpnOj9TapSGQ-dlIDUsNGZL4RT5g&amp;oe=69E8253C"
   },
   {
@@ -5017,7 +4802,6 @@ export const BANDS: Band[] = [
     lat: 42.387823,
     lng: -71.082508,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5032,7 +4816,6 @@ export const BANDS: Band[] = [
     lat: 42.377550,
     lng: -71.098569,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5047,7 +4830,6 @@ export const BANDS: Band[] = [
     lat: 42.392509,
     lng: -71.100364,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/superpinksucks",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/491454292_18309564757232793_6548834668479112704_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTQuQzMifQ%3D%3D&amp;_nc_ohc=7k9hA202r5UQ7kNvwFuYqWn&amp;_nc_oc=AdrZJuuO_7le4HKDKgfUP6lF8RXpSEoQEWEY1TgDyDQsD_71ueNz_3iO0-DOmwB4Qv0&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=_5IIVj0ilFiJ1NiACe3B1w&amp;_nc_ss=7a289&amp;oh=00_Af2gGu63ffVjsNXXU6GL1ZjwHHc231AdE11zfT-_Vt0YAA&amp;oe=69E811FD"
   },
   {
@@ -5062,7 +4844,6 @@ export const BANDS: Band[] = [
     lat: 42.382546,
     lng: -71.096623,
     color: "#C47A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5077,7 +4858,6 @@ export const BANDS: Band[] = [
     lat: 42.387709,
     lng: -71.098948,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5092,7 +4872,6 @@ export const BANDS: Band[] = [
     lat: 42.376165,
     lng: -71.104969,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/thebookclub_band",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/584448000_17863379427515589_6261048489536352266_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=c3O0p44LLz4Q7kNvwFq2rVn&amp;_nc_oc=AdostlwztDAD28k46sR7ylIrttyagKcrjlyMcHKRBONqJMXxGIQ3MWa45kE07vwqL8Y&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=2LTlBUfBRKe9RH98SfrHOA&amp;_nc_ss=7a289&amp;oh=00_Af0mLJbeBDjenrdugIluU3F_v6IyuKTdn54Aakd0gOuwLQ&amp;oe=69E80C55"
   },
   {
@@ -5108,7 +4887,6 @@ export const BANDS: Band[] = [
     lng: -71.101328,
     color: "#C44A3A",
     bandcamp: "https://theelegies.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/a1840766622_5.jpg",
   },
   {
@@ -5123,7 +4901,6 @@ export const BANDS: Band[] = [
     lat: 42.393903,
     lng: -71.098552,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5139,7 +4916,6 @@ export const BANDS: Band[] = [
     lng: -71.106593,
     color: "#C44A3A",
     bandcamp: "https://thegalvanics.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/a2717948762_5.jpg",
     spotify: "https://open.spotify.com/artist/6sJmj8pjqBH8h8NxBy0UEq",
   },
@@ -5155,7 +4931,6 @@ export const BANDS: Band[] = [
     lat: 42.389312,
     lng: -71.095522,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5170,7 +4945,6 @@ export const BANDS: Band[] = [
     lat: 42.384921,
     lng: -71.099183,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5185,7 +4959,6 @@ export const BANDS: Band[] = [
     lat: 42.389302,
     lng: -71.101377,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5200,7 +4973,6 @@ export const BANDS: Band[] = [
     lat: 42.385731,
     lng: -71.101867,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/themassiveletdowns",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/497569318_17930151783043772_1747514124509563224_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MjkuQzMifQ%3D%3D&amp;_nc_ohc=gpyHZDOrDUgQ7kNvwECvYIh&amp;_nc_oc=AdqcJ7_oW7xjW2YfNv3s3x9OE9LWjziTd9VSMpwpRZ4jmtBrdypsEXG0zHaRgrkkUqo&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=kSM0nnA66HC53sElLnogjg&amp;_nc_ss=7a289&amp;oh=00_Af1nJt98hbxrDW21Z_GdGYOW0tpJ-UUqDo4oiQb17wM6vg&amp;oe=69E80633"
   },
   {
@@ -5215,7 +4987,6 @@ export const BANDS: Band[] = [
     lat: 42.385244,
     lng: -71.101373,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/the_nogues",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/435029289_751963633784205_211408864515974728_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAyLkMzIn0%3D&amp;_nc_ohc=rsEyeG7lb64Q7kNvwG5_re8&amp;_nc_oc=Adp7En-ZG1S6edE5zY8o7jGDIs4T3r-xICj0dVrNs3g0TgFIFWED-1ml0D_hq9P1V80&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af1yvevlE84HQvKe2jg6lersjiN3RRRa3fqctxQVBxsGQw&amp;oe=69E8193D"
   },
   {
@@ -5230,7 +5001,6 @@ export const BANDS: Band[] = [
     lat: 42.387070,
     lng: -71.087565,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5245,7 +5015,6 @@ export const BANDS: Band[] = [
     lat: 42.381417,
     lng: -71.094099,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5260,7 +5029,6 @@ export const BANDS: Band[] = [
     lat: 42.395392,
     lng: -71.096428,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5275,7 +5043,6 @@ export const BANDS: Band[] = [
     lat: 42.387118,
     lng: -71.102277,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5290,7 +5057,6 @@ export const BANDS: Band[] = [
     lat: 42.394237,
     lng: -71.097520,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5305,7 +5071,6 @@ export const BANDS: Band[] = [
     lat: 42.385884,
     lng: -71.082545,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/the_vacant_hotel",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/433147924_961376855646480_415208294669610806_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MzYuQzMifQ%3D%3D&amp;_nc_ohc=WjDyvPk9Bo4Q7kNvwGxMHeG&amp;_nc_oc=AdpVwUd078IIU1tlX2PZLho6PF3ggR1FldKCNZ2tH6CN_c2SNzBLfX5rKidHJ3prwCQ&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af2rlqCEF8GCV4lvXatScpOhCX_sppdvSCnpPCyZkJVw0w&amp;oe=69E82538"
   },
   {
@@ -5333,7 +5098,6 @@ export const BANDS: Band[] = [
     lat: 42.392171,
     lng: -71.099960,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5361,7 +5125,6 @@ export const BANDS: Band[] = [
     lat: 42.377418,
     lng: -71.102069,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/untidyband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/434474156_398921962851550_1672538222207937620_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NTMuQzMifQ%3D%3D&amp;_nc_ohc=4FN_sRRsKbkQ7kNvwFOdNCq&amp;_nc_oc=AdpNhekodCS9nbSi56LRg1CljNLFDLSlMWybjZOTweayTs6UZU7f6dsiPGbvCT0FsDg&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0iym9JB0zhGIrynLjUBXZ9-wKLhsbfvWRBBAMq9i3KjQ&amp;oe=69E838E1"
   },
   {
@@ -5402,7 +5165,6 @@ export const BANDS: Band[] = [
     lat: 42.377025,
     lng: -71.103661,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5417,7 +5179,6 @@ export const BANDS: Band[] = [
     lat: 42.381009,
     lng: -71.092291,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5432,7 +5193,6 @@ export const BANDS: Band[] = [
     lat: 42.383268,
     lng: -71.101930,
     color: "#8A6FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5447,7 +5207,6 @@ export const BANDS: Band[] = [
     lat: 42.386696,
     lng: -71.103485,
     color: "#D4B483",
-    instagram: "https://www.instagram.com/p",
   },
   {
     id: 375,
@@ -5487,7 +5246,6 @@ export const BANDS: Band[] = [
     lat: 42.376564,
     lng: -71.102748,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5528,7 +5286,6 @@ export const BANDS: Band[] = [
     lat: 42.378457,
     lng: -71.101674,
     color: "#4A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5569,7 +5326,6 @@ export const BANDS: Band[] = [
     lat: 42.382910,
     lng: -71.088746,
     color: "#7AABBB",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5585,7 +5341,6 @@ export const BANDS: Band[] = [
     lng: -71.098300,
     color: "#C44A3A",
     bandcamp: "https://galaxycakeboston.bandcamp.com",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://f4.bcbits.com/img/0042481915_23.jpg",
   },
   {
@@ -5600,7 +5355,6 @@ export const BANDS: Band[] = [
     lat: 42.377025,
     lng: -71.103661,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5615,7 +5369,6 @@ export const BANDS: Band[] = [
     lat: 42.383268,
     lng: -71.101930,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5630,7 +5383,6 @@ export const BANDS: Band[] = [
     lat: 42.379576,
     lng: -71.096271,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5645,7 +5397,6 @@ export const BANDS: Band[] = [
     lat: 42.393566,
     lng: -71.097448,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/harbor.unknown",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.75761-19/491451721_17847633540462403_7036201605536595390_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=VA7v5gZMBaAQ7kNvwHgzMSs&amp;_nc_oc=Adp9MdfjI8YfF8Sfsx_8uB5-wiBo6XSJUlwe_vNQJoTvd358mAIz_WXAKKd3HXZgLJE&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=RGWN1zEkcO-cd4uUrHy6aA&amp;_nc_ss=7a289&amp;oh=00_Af0FZ2mHuK1pZDkSYLdvQVBxmd53u1JogJFhkdgaqaO2rg&amp;oe=69E80449"
   },
   {
@@ -5660,7 +5411,6 @@ export const BANDS: Band[] = [
     lat: 42.377392,
     lng: -71.102734,
     color: "#7A9E6A",
-    instagram: "https://www.instagram.com/jadearray",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/491520078_665463582937351_3782486556130494981_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=NlTZ4MQTgB4Q7kNvwFVrKo7&amp;_nc_oc=Ado5KZu6wE9MFvEAm_TzDD0FnDMGn5kiTV5YaXvb2-EYJIb2OBDQl8Er7_tGCv5jFp0&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0oEqZdTHI_YgPU5ZqSdNRbtPuTXrTHjQ4EMHRgJKGudQ&amp;oe=69E8144A"
   },
   {
@@ -5675,7 +5425,6 @@ export const BANDS: Band[] = [
     lat: 42.377632,
     lng: -71.102572,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/krixusband",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/435508443_820641986751533_6969931717265705965_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=inNLw966puEQ7kNvwFIl0hh&amp;_nc_oc=AdrfKMQvohK3DMP-HeLxOTzeNUPDdc8Y_jUWiGUHHe7A9XNhZ8C5Lol6Hb61uyWaH9g&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af014ZZuAUwDl8BjDWEoChK8NwRJbWAck2TU1n_m_tgkDQ&amp;oe=69E803E8"
   },
   {
@@ -5690,7 +5439,6 @@ export const BANDS: Band[] = [
     lat: 42.381204,
     lng: -71.091307,
     color: "#C49A4A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5705,7 +5453,6 @@ export const BANDS: Band[] = [
     lat: 42.389453,
     lng: -71.100591,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/mapletuesday",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/662353165_18074502263303416_3918859328650247896_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=VcCK72e_1l0Q7kNvwFh8epo&amp;_nc_oc=AdpoO6r54f5g8JmN5M9LJBrdfST8OiUbW6Gf37k3048qpBMxtasKx_qCd-kHN1OceC4&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_gid=IKdRiQRABmRDSVZevyhh4g&amp;_nc_ss=7a289&amp;oh=00_Af1RWM_kwMh0RRb1AsEgUu6yrG_pIIEmTq0w_DTNU5jsFg&amp;oe=69E81145"
   },
   {
@@ -5733,7 +5480,6 @@ export const BANDS: Band[] = [
     lat: 42.392171,
     lng: -71.099960,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5748,7 +5494,6 @@ export const BANDS: Band[] = [
     lat: 42.378457,
     lng: -71.101674,
     color: "#9A9A9A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5763,7 +5508,6 @@ export const BANDS: Band[] = [
     lat: 42.389302,
     lng: -71.101377,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5778,7 +5522,6 @@ export const BANDS: Band[] = [
     lat: 42.379923,
     lng: -71.095123,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/ruinthenitemusic",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/311830329_2287736111383453_5286976462413604604_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&amp;_nc_ohc=EKEIJONigvwQ7kNvwH1HEwH&amp;_nc_oc=AdpYxX0tFcwtwWfEuzd6vV_sVKoiCJoyoSF8Asje8e0bkw-Yakh7MWcjhhlgaY38sz4&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af2GHRbSdSJeL2bF4Dfk0WdQmshvmHhpc92TGAVnUsv3QA&amp;oe=69E83991"
   },
   {
@@ -5793,7 +5536,6 @@ export const BANDS: Band[] = [
     lat: 42.385385,
     lng: -71.104324,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5808,7 +5550,6 @@ export const BANDS: Band[] = [
     lat: 42.377380,
     lng: -71.099370,
     color: "#C44A3A",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5823,7 +5564,6 @@ export const BANDS: Band[] = [
     lat: 42.387442,
     lng: -71.080709,
     color: "#8A7FC4",
-    instagram: "https://www.instagram.com/tornadohogan",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/421854463_1063454311532402_6493123367423674412_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NzYuQzMifQ%3D%3D&amp;_nc_ohc=AtWXbuBwwfYQ7kNvwGy04Tx&amp;_nc_oc=AdosFRfpTTOMABC54lvOj2aXWQQ1NqYLdqHu96YtxRiyFyCKhabwEsxYAcdruVeRAIY&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0sEAfaodcsLGIAiiV4jDIWgJU9C0BjUSwG8JnqID-QLQ&amp;oe=69E82B4B"
   },
   {
@@ -5838,7 +5578,6 @@ export const BANDS: Band[] = [
     lat: 42.375762,
     lng: -71.098653,
     color: "#4A9FC4",
-    instagram: "https://www.instagram.com/somervilleartscouncil",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/11374773_844070719012245_1982796579_a.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&amp;_nc_ohc=5KlyZIUQQk8Q7kNvwFb9gTp&amp;_nc_oc=AdqmrlVsStEIqJqvCHJCOdJZTUQFANGSSEpMTLIFCPd_M-DDvWdwAw_kLovk5JiCBwA&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0jRGgppMutTJi-rRPL1hVr9Z10jQH2CxWqkqjOxKm_bw&amp;oe=69E80B3D"
   },
   {
@@ -5853,7 +5592,6 @@ export const BANDS: Band[] = [
     lat: 42.378005,
     lng: -71.098300,
     color: "#C45A7A",
-    instagram: "https://www.instagram.com/hammeredsaint",
     image: "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/319296642_140740252100816_4608637577861048831_n.jpg?stp=dst-jpg_s100x100_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45OTkuQzMifQ%3D%3D&amp;_nc_ohc=-3oievl_BNgQ7kNvwH-UdtR&amp;_nc_oc=AdrmyW-uItD-eisa4yKJ3l5JJNlAcodpUIL52pYqxNlWXu3jNcHwi2ByuhD5qg78ylo&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.cdninstagram.com&amp;_nc_ss=7a289&amp;oh=00_Af0JPaHHE3TyxILvAjfi2_Y9cZAW_nE5G93p8JYlu6D75w&amp;oe=69E81EF9"
   },
   {

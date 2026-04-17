@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useMemo, useRef } from "react";
+import { useMemo, useRef } from "react";
 import { BANDS, ALL_GENRES, Zone, ZONE_CONFIG } from "@/lib/bands";
 import { BandCard } from "@/components/BandCard";
 import { Search, X, ArrowRight } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import clsx from "clsx";
+import { useFilters } from "@/lib/store";
 
 const ZONES: Zone[] = ["west", "central", "east"];
 
@@ -52,9 +53,8 @@ const ZONE_LABELS: Record<Zone, string> = {
 };
 
 export default function DiscoverPage() {
-  const [query, setQuery] = useState("");
-  const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
-  const [activeZones, setActiveZones] = useState<Set<Zone>>(new Set(ZONES));
+  const { query, setQuery, selectedGenres, setSelectedGenres, activeZones: activeZonesArr, setActiveZones, reset } = useFilters();
+  const activeZones = new Set<Zone>(activeZonesArr);
   const resultsRef = useRef<HTMLDivElement>(null);
 
   const genreCounts = useMemo(() => {
@@ -92,22 +92,16 @@ export default function DiscoverPage() {
     setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
 
   const toggleGenre = (g: string) => {
-    setSelectedGenres((prev) =>
-      prev.includes(g) ? prev.filter((x) => x !== g) : [...prev, g]
-    );
+    setSelectedGenres(selectedGenres.includes(g) ? selectedGenres.filter((x) => x !== g) : [...selectedGenres, g]);
     scrollToResults();
   };
 
   const setOnlyZone = (z: Zone) => {
-    setActiveZones(new Set([z]));
+    setActiveZones([z]);
     scrollToResults();
   };
 
-  const clearFilters = () => {
-    setQuery("");
-    setSelectedGenres([]);
-    setActiveZones(new Set(ZONES));
-  };
+  const clearFilters = () => reset();
 
   return (
     <div className="pb-16">
@@ -271,7 +265,7 @@ export default function DiscoverPage() {
         </div>
         {activeZones.size === 1 && (
           <button
-            onClick={() => setActiveZones(new Set(ZONES))}
+            onClick={() => setActiveZones([...ZONES])}
             className="mt-3 text-xs text-navy/40 hover:text-navy underline"
           >
             Show all time slots

@@ -2,6 +2,27 @@
 
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
+import { Zone } from "./bands";
+
+interface FilterStore {
+  query: string;
+  selectedGenres: string[];
+  activeZones: Zone[];
+  setQuery: (q: string) => void;
+  setSelectedGenres: (g: string[]) => void;
+  setActiveZones: (z: Zone[]) => void;
+  reset: () => void;
+}
+
+export const useFilters = create<FilterStore>()((set) => ({
+  query: "",
+  selectedGenres: [],
+  activeZones: ["west", "central", "east"],
+  setQuery: (query) => set({ query }),
+  setSelectedGenres: (selectedGenres) => set({ selectedGenres }),
+  setActiveZones: (activeZones) => set({ activeZones }),
+  reset: () => set({ query: "", selectedGenres: [], activeZones: ["west", "central", "east"] }),
+}));
 
 interface ScheduleStore {
   scheduledIds: number[];

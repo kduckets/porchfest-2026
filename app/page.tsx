@@ -122,7 +122,7 @@ export default function DiscoverPage() {
         />
         <div className="max-w-3xl mx-auto relative">
           <h1 className="font-display text-3xl md:text-4xl text-white mb-1 leading-tight">
-            Discover local music
+            Find local sounds
           </h1>
           <p className="text-[11px] tracking-[0.18em] uppercase text-white/55 mb-4 font-light">
             Somerville Porchfest · {BANDS.length} acts · May 9, 2026

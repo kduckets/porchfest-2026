@@ -138,7 +138,7 @@ export default function LeafletMap({ bands }: Props) {
         mapInstanceRef.current = null;
       }
     };
-  }, []);
+  }, [bands]); // eslint-disable-line react-hooks/exhaustive-deps
 
 
   return <div ref={mapRef} style={{ height: "420px", width: "100%" }} />;

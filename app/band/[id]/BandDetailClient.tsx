@@ -127,7 +127,7 @@ export function BandDetailClient({ band }: { band: Band }) {
       <p className="text-[0.9rem] leading-7 text-navy/70 mb-6">{band.bio}</p>
 
       {/* Listen */}
-      {(band.bandcamp || band.spotify || band.youtube || band.website) && (
+      {(band.bandcamp || band.instagram || band.spotify || band.youtube || band.website) && (
         <div className="mb-6">
           <p className="text-[10px] tracking-widest uppercase text-navy/40 mb-2.5">
             Listen & Learn
@@ -141,6 +141,17 @@ export function BandDetailClient({ band }: { band: Band }) {
                 className="flex items-center gap-2 px-4 py-2 bg-[#1DA0C3] text-white text-sm rounded-lg hover:opacity-90 transition-opacity"
               >
                 ♫ Bandcamp
+              </a>
+            )}
+            {band.instagram && (
+              <a
+                href={band.instagram}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-4 py-2 text-white text-sm rounded-lg hover:opacity-90 transition-opacity"
+                style={{ background: "linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888)" }}
+              >
+                📷 Instagram
               </a>
             )}
             {band.spotify && (

@@ -124,8 +124,8 @@ export default function DiscoverPage() {
           <h1 className="font-display text-3xl md:text-4xl text-white mb-1 leading-tight">
             Navigate the noise
           </h1>
-          <p className="text-[11px] tracking-[0.18em] uppercase text-white/55 mb-4 font-light">
-            Somerville Porchfest · May 9, 2026 · {BANDS.length} bands 
+          <p className="text-[12px] tracking-[0.18em] uppercase text-white/55 mb-4 font-light">
+           The unofficial Somerville Porchfest Guide · May 9, 2026 · {BANDS.length} bands 
           </p>
           <div className="relative max-w-lg">
             <Search size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-white/50" />

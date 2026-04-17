@@ -74,7 +74,7 @@ export function BandDetailClient({ band }: { band: Band }) {
           </div>
           {/* Big note decoration — only when no image */}
           {!band.image && (
-            <div className="text-6xl opacity-20 text-white select-none">♪</div>
+            <div className="opacity-20 text-white select-none"><Music size={56} /></div>
           )}
         </div>
 

@@ -46,10 +46,9 @@ export default function RootLayout({
         <Nav />
         <main>{children}</main>
         <footer className="border-t border-blush/40 mt-8 py-8 px-4 text-center text-xs text-navy/40 space-y-1">
-          <p>Designed by Kev · a Somerville dad &amp; Porchfest participant</p>
-          <p>Built by AI</p>
+          <p>Designed by Kev · a Somerville dad, musician, and web dev</p>
           <p>
-            Questions &amp; comments:{" "}
+            Questions · comments · help with your website:{" "}
             <a href="mailto:kmditroia@gmail.com" className="underline hover:text-navy/70 transition-colors">
               kmditroia@gmail.com
             </a>

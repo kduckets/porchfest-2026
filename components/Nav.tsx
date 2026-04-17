@@ -27,7 +27,7 @@ export function Nav() {
                 Porch Pilot
               </div>
               <div className="text-[10px] tracking-widest text-white/55 uppercase font-light">
-                Porchfest 2026
+                Somerville Porchfest 2026
               </div>
             </div>
           </Link>

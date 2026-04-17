@@ -50,19 +50,11 @@ export default function SchedulePage() {
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">
-      <div className="flex items-center justify-between mb-6">
-        <div>
-          <h1 className="font-display text-2xl">My Porchfest Day</h1>
-          <p className="text-sm text-navy/50 mt-0.5">
-            {scheduled.length} act{scheduled.length !== 1 ? "s" : ""} selected
-          </p>
-        </div>
-        <Link
-          href="/map"
-          className="flex items-center gap-1.5 bg-navy text-cream text-sm px-4 py-2 rounded-lg hover:bg-navy-light transition-colors"
-        >
-          View Route Map <ArrowRight size={13} />
-        </Link>
+      <div className="mb-6">
+        <h1 className="font-display text-2xl">My Porchfest Day</h1>
+        <p className="text-sm text-navy/50 mt-0.5">
+          {scheduled.length} act{scheduled.length !== 1 ? "s" : ""} selected
+        </p>
       </div>
 
       {/* Conflict warning */}
@@ -160,7 +152,8 @@ export default function SchedulePage() {
       {/* Map CTA */}
       <Link
         href="/map"
-        className="mt-4 flex items-center justify-center gap-2 w-full py-3.5 bg-navy text-cream rounded-xl text-sm hover:bg-navy-light transition-colors"
+        className="mt-4 flex items-center justify-center gap-2 w-full py-3.5 rounded-xl text-sm text-white hover:opacity-90 transition-opacity"
+        style={{ background: "#4F9FD0" }}
       >
         See Your Route on the Map <ArrowRight size={14} />
       </Link>

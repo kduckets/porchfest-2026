@@ -67,7 +67,7 @@ export function PostForm() {
           minLength={3}
           maxLength={500}
           rows={3}
-          placeholder="You were playing guitar on the red porch on Elm St. around 2pm. Your version of Landslide made me cry. Who are you?"
+          placeholder="You were playing guitar on the red porch on Elm St. around 2pm. Your reggae version of Landslide made me cry. Who are you?"
           className="w-full px-3 py-2 text-sm border border-navy/15 rounded-lg bg-cream focus:outline-none focus:border-sage/60 transition-colors resize-none"
         />
       </div>

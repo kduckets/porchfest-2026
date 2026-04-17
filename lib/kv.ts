@@ -1,6 +1,19 @@
-import { kv } from "@vercel/kv";
+import Redis from "ioredis";
 
 const KEY = "pf2026_missed_connections";
+
+// Reuse connection across requests in development
+const getRedis = (() => {
+  let client: Redis | null = null;
+  return () => {
+    if (!client) {
+      const url = process.env.REDIS_URL;
+      if (!url) throw new Error("REDIS_URL is not set");
+      client = new Redis(url, { tls: { rejectUnauthorized: false } });
+    }
+    return client;
+  };
+})();
 
 export interface McPost {
   id: string;
@@ -12,13 +25,15 @@ export interface McPost {
 
 export async function getPosts(): Promise<McPost[]> {
   try {
-    const items = await kv.lrange<string>(KEY, 0, 99);
-    return items.map((s) => (typeof s === "string" ? JSON.parse(s) : s) as McPost);
+    const redis = getRedis();
+    const items = await redis.lrange(KEY, 0, 99);
+    return items.map((s) => JSON.parse(s) as McPost);
   } catch {
     return [];
   }
 }
 
 export async function addPost(post: McPost): Promise<void> {
-  await kv.lpush(KEY, JSON.stringify(post));
+  const redis = getRedis();
+  await redis.lpush(KEY, JSON.stringify(post));
 }

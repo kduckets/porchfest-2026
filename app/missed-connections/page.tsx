@@ -33,7 +33,7 @@ export default async function MissedConnectionsPage() {
       <div className="mb-6">
         <h1 className="font-display text-2xl">Missed Connections</h1>
         <p className="text-sm text-navy/50 mt-0.5">
-          Spotted someone at Porchfest? Leave them a note.
+          Spotted someone at Porchfest? You'll never know if you don't try.
         </p>
       </div>
 

@@ -9,7 +9,7 @@ const TABS = [
   { href: "/", label: "Discover" },
   { href: "/schedule", label: "My Schedule" },
   { href: "/map", label: "Route Map" },
-  { href: "/missed-connections", label: "Missed Connections" },
+  { href: "/missed-connections", label: "Connections" },
 ];
 
 export function Nav() {

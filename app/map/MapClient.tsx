@@ -6,9 +6,13 @@ import { ZoneBadge } from "@/components/ZoneBadge";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { ArrowRight, MapPin, Clock, ExternalLink } from "lucide-react";
+import { MusicNoteLoader } from "@/components/MusicNoteLoader";
 
 // Dynamically import map to avoid SSR issues with Leaflet
-const LeafletMap = dynamic(() => import("./LeafletMap"), { ssr: false });
+const LeafletMap = dynamic(() => import("./LeafletMap"), {
+  ssr: false,
+  loading: () => <MusicNoteLoader className="py-16" />,
+});
 
 export function MapClient() {
   const { scheduledIds } = useSchedule();

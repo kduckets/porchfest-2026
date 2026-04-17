@@ -194,7 +194,7 @@ export default function DiscoverPage() {
 
       {/* Genre grid — now above time slots */}
       <section className="max-w-5xl mx-auto px-4 py-6 border-t border-blush/30">
-        <p className="text-xs text-navy/40 mb-3">Filter by genre.</p>
+        <p className="text-sm text-navy/50 mb-3">Filter by genre.</p>
         <div className="flex flex-wrap gap-2">
           {ALL_GENRES.map((g) => {
             const color = GENRE_COLORS[g] || "#4A4A4A";
@@ -231,7 +231,7 @@ export default function DiscoverPage() {
 
       {/* Time slot cards */}
       <section className="max-w-5xl mx-auto px-4 py-6 border-t border-blush/30">
-        <p className="text-xs text-navy/40 mb-4">Pick a time slot to see who&rsquo;s playing.</p>
+        <p className="text-sm text-navy/50 mb-4">Pick a time slot to see who&rsquo;s playing.</p>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           {ZONES.map((z) => {
             const cfg = ZONE_CONFIG[z];

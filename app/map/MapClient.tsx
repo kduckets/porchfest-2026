@@ -23,16 +23,16 @@ export function MapClient() {
     return (
       <div className="max-w-2xl mx-auto px-4 py-20 text-center">
         <div className="text-5xl mb-4">🗺</div>
-        <h2 className="font-display text-2xl mb-2">No acts on your schedule</h2>
+        <h2 className="font-display text-2xl mb-2">No bands on your schedule</h2>
         <p className="text-navy/50 mb-6">
-          Add some acts to your schedule first to see your personalized route
+          Add some bands to your schedule first to see your personalized route
           map.
         </p>
         <Link
           href="/"
           className="inline-flex items-center gap-2 bg-sage text-white px-5 py-2.5 rounded-lg text-sm hover:bg-sage-dark transition-colors"
         >
-          Discover Acts <ArrowRight size={14} />
+          Discover Bands <ArrowRight size={14} />
         </Link>
       </div>
     );
@@ -116,7 +116,7 @@ export function MapClient() {
       <div className="mt-5 p-4 bg-sage/8 border border-sage/20 rounded-xl text-sm text-navy/60 leading-relaxed">
         <p className="font-medium text-sage mb-1">🚶 Getting around</p>
         <p>
-          Porchfest is a walking festival — most acts are within a 10–15 minute
+          Porchfest is a walking festival — most bands are within a 10–15 minute
           walk of each other. Arrive early, bring a blanket, and enjoy the
           neighborhood. Parking is limited so consider the T (Davis or Porter
           Square on the Red Line) or cycling.

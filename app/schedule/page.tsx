@@ -10,7 +10,11 @@ import { AnimatePresence, motion } from "framer-motion";
 function startMinutes(time: string): number {
   const m = time.match(/^(\d+):(\d+)/);
   if (!m) return 0;
-  return parseInt(m[1]) * 60 + parseInt(m[2]);
+  let hours = parseInt(m[1]);
+  const minutes = parseInt(m[2]);
+  // Porchfest runs 12pm–6pm; hours < 12 are PM (1pm–6pm), so add 12
+  if (hours < 12) hours += 12;
+  return hours * 60 + minutes;
 }
 
 export default function SchedulePage() {
@@ -23,7 +27,7 @@ export default function SchedulePage() {
         <div className="text-5xl mb-4">🎶</div>
         <h2 className="font-display text-2xl mb-2">Your schedule is empty</h2>
         <p className="text-navy/50 mb-6">
-          Browse acts and tap{" "}
+          Browse bands and tap{" "}
           <span className="font-mono text-sm bg-navy/10 px-1.5 py-0.5 rounded">
             +
           </span>{" "}
@@ -33,7 +37,7 @@ export default function SchedulePage() {
           href="/"
           className="inline-flex items-center gap-2 bg-sage text-white px-5 py-2.5 rounded-lg text-sm hover:bg-sage-dark transition-colors"
         >
-          Discover Acts <ArrowRight size={14} />
+          Discover Bands <ArrowRight size={14} />
         </Link>
       </div>
     );
@@ -53,7 +57,7 @@ export default function SchedulePage() {
       <div className="mb-6">
         <h1 className="font-display text-2xl">My Porchfest Day</h1>
         <p className="text-sm text-navy/50 mt-0.5">
-          {scheduled.length} act{scheduled.length !== 1 ? "s" : ""} selected
+          {scheduled.length} band{scheduled.length !== 1 ? "s" : ""} selected
         </p>
       </div>
 
@@ -61,7 +65,7 @@ export default function SchedulePage() {
       {conflicts.length > 0 && (
         <div className="mb-5 p-3.5 bg-amber-50 border border-amber-200 rounded-xl text-sm text-amber-800">
           ⚠️ You have{" "}
-          <strong>{conflicts.reduce((s, g) => s + g.length, 0)}</strong> acts
+          <strong>{conflicts.reduce((s, g) => s + g.length, 0)}</strong> bands
           overlapping in the same time slot. You can only see one per slot!
         </div>
       )}

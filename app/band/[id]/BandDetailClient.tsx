@@ -29,7 +29,7 @@ export function BandDetailClient({ band }: { band: Band }) {
         className="inline-flex items-center gap-1.5 text-sm text-navy/50 hover:text-navy mb-6 transition-colors"
       >
         <ArrowLeft size={14} />
-        All acts
+        All bands
       </Link>
 
       {/* Hero card */}
@@ -40,10 +40,31 @@ export function BandDetailClient({ band }: { band: Band }) {
         <div
           className="h-48 flex items-end justify-between px-6 pb-5 relative"
           style={{
-            background: `linear-gradient(135deg, ${band.color}CC, ${band.color}88)`,
+            background: band.image
+              ? `linear-gradient(to top, ${band.color}EE 0%, ${band.color}88 50%, transparent 100%)`
+              : `linear-gradient(135deg, ${band.color}CC, ${band.color}88)`,
           }}
         >
-          <div>
+          {band.image && (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              src={band.image}
+              alt={band.name}
+              className="absolute inset-0 w-full h-full object-cover object-center"
+              style={{ zIndex: 0 }}
+            />
+          )}
+          {/* Gradient overlay sits on top of image */}
+          {band.image && (
+            <div
+              className="absolute inset-0"
+              style={{
+                background: `linear-gradient(to top, ${band.color}EE 0%, ${band.color}55 55%, transparent 100%)`,
+                zIndex: 1,
+              }}
+            />
+          )}
+          <div style={{ position: "relative", zIndex: 2 }}>
             <h1 className="font-display text-3xl font-bold text-white drop-shadow-sm leading-tight">
               {band.name}
             </h1>
@@ -51,8 +72,10 @@ export function BandDetailClient({ band }: { band: Band }) {
               {band.genre}
             </span>
           </div>
-          {/* Big note decoration */}
-          <div className="text-6xl opacity-20 text-white select-none">♪</div>
+          {/* Big note decoration — only when no image */}
+          {!band.image && (
+            <div className="text-6xl opacity-20 text-white select-none">♪</div>
+          )}
         </div>
 
         {/* Meta strip */}

@@ -30,6 +30,13 @@ export default function LeafletMap({ bands }: Props) {
 
       if (!mapRef.current) return;
 
+      // Clear any stale Leaflet state left by Strict Mode's double-invoke
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      if ((mapRef.current as any)._leaflet_id) {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        delete (mapRef.current as any)._leaflet_id;
+      }
+
       // Center on Somerville
       const map = L.map(mapRef.current, {
         center: [42.3876, -71.1132],

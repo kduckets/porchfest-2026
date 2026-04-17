@@ -125,7 +125,7 @@ export default function DiscoverPage() {
             Navigate the noise
           </h1>
           <p className="text-[11px] tracking-[0.18em] uppercase text-white/55 mb-4 font-light">
-            Somerville Porchfest · {BANDS.length} acts · May 9, 2026
+            Somerville Porchfest · {BANDS.length} bands · May 9, 2026
           </p>
           <div className="relative max-w-lg">
             <Search size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-white/50" />
@@ -159,7 +159,7 @@ export default function DiscoverPage() {
             >
               <div className="flex items-center justify-between mb-4">
                 <p className="text-sm text-navy/60">
-                  <span className="font-medium text-navy">{filtered.length}</span> act{filtered.length !== 1 ? "s" : ""}
+                  <span className="font-medium text-navy">{filtered.length}</span> band{filtered.length !== 1 ? "s" : ""}
                   {selectedGenres.length > 0 && (
                     <span> in <span className="font-medium text-navy">{selectedGenres.join(", ")}</span></span>
                   )}
@@ -175,7 +175,7 @@ export default function DiscoverPage() {
               {filtered.length === 0 ? (
                 <div className="text-center py-12 text-navy/40">
                   <p className="text-3xl mb-2">🎵</p>
-                  <p className="font-display text-lg text-navy/50">No acts match</p>
+                  <p className="font-display text-lg text-navy/50">No bands match</p>
                   <button onClick={clearFilters} className="mt-3 text-sm text-sage hover:underline">
                     Clear filters
                   </button>
@@ -260,7 +260,7 @@ export default function DiscoverPage() {
                   {cfg.time}
                 </p>
                 <p className="text-sm font-medium" style={{ color: isActive ? "rgba(255,255,255,0.9)" : cfg.text }}>
-                  {zoneCounts[z]} acts
+                  {zoneCounts[z]} bands
                 </p>
                 <div className="mt-3 flex items-center gap-1 text-xs font-medium" style={{ color: isActive ? "white" : cfg.color }}>
                   Browse <ArrowRight size={12} />

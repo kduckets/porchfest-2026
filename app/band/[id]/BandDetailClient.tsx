@@ -50,7 +50,7 @@ export function BandDetailClient({ band }: { band: Band }) {
             <img
               src={band.image}
               alt={band.name}
-              className="absolute inset-0 w-full h-full object-cover object-top"
+              className="absolute inset-0 w-full h-full object-contain object-center"
               style={{ zIndex: 0 }}
             />
           )}

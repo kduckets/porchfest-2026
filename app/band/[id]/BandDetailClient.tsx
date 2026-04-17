@@ -41,7 +41,7 @@ export function BandDetailClient({ band }: { band: Band }) {
           className="h-64 flex items-end justify-between px-6 pb-5 relative"
           style={{
             background: band.image
-              ? `linear-gradient(to top, ${band.color}EE 0%, ${band.color}88 50%, transparent 100%)`
+              ? `#1a1a1a`
               : `linear-gradient(135deg, ${band.color}CC, ${band.color}88)`,
           }}
         >

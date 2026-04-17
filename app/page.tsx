@@ -99,23 +99,23 @@ export default function DiscoverPage() {
   return (
     <div className="pb-16">
       {/* Hero */}
-      <div className="text-navy px-6 py-14 relative overflow-hidden" style={{ background: "#3A8EA8" }}>
+      <div className="px-6 py-14 relative overflow-hidden" style={{ background: "#4F9FD0" }}>
+        {/* Cloud-like light wisps */}
         <div
-          className="absolute inset-0 opacity-20"
+          className="absolute inset-0"
           style={{
             backgroundImage:
-              "radial-gradient(ellipse at 80% 50%, rgba(77,186,178,0.35) 0%, transparent 55%)",
+              "radial-gradient(ellipse at 15% 40%, rgba(255,255,255,0.18) 0%, transparent 50%), radial-gradient(ellipse at 80% 20%, rgba(255,255,255,0.12) 0%, transparent 45%)",
           }}
         />
         <div className="max-w-3xl mx-auto relative">
-                  <h1 className="font-display text-5xl md:text-6xl leading-[1.05] mb-6 text-white">
-            Porch Pilot
-          </h1>
-          <p className="text-[11px] tracking-[0.2em] uppercase text-navy/60 mb-4 font-light">
+          <p className="text-[11px] tracking-[0.2em] uppercase text-white/60 mb-4 font-light">
             The unofficial Somerville Porchfest guide
           </p>
-  
-          <p className="text-navy/60 text-sm mb-8">
+          <h1 className="font-display text-5xl md:text-6xl leading-[1.05] mb-6 text-white">
+            Find your sound
+          </h1>
+          <p className="text-white/60 text-sm mb-8">
             {BANDS.length} acts · May 9, 2026 · Somerville, MA
           </p>
 
@@ -123,18 +123,18 @@ export default function DiscoverPage() {
           <div className="relative max-w-lg">
             <Search
               size={16}
-              className="absolute left-4 top-1/2 -translate-y-1/2 text-navy/40"
+              className="absolute left-4 top-1/2 -translate-y-1/2 text-white/50"
             />
             <input
               value={query}
               onChange={(e) => { setQuery(e.target.value); scrollToResults(); }}
               placeholder="Search bands, genres, addresses…"
-              className="w-full pl-11 pr-10 py-3.5 text-sm bg-white/20 border border-navy/20 rounded-xl text-navy placeholder:text-navy/40 focus:outline-none focus:border-navy/40 focus:bg-white/30 transition-all"
+              className="w-full pl-11 pr-10 py-3.5 text-sm bg-white/15 border border-white/25 rounded-xl text-white placeholder:text-white/50 focus:outline-none focus:border-white/50 focus:bg-white/20 transition-all"
             />
             {query && (
               <button
                 onClick={() => setQuery("")}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-navy/40 hover:text-navy"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-white/50 hover:text-white"
               >
                 <X size={14} />
               </button>

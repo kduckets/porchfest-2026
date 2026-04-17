@@ -125,7 +125,7 @@ export default function DiscoverPage() {
             Porch Pilot
           </h1>
           <p className="text-[12px] tracking-[0.18em] uppercase text-white/55 mb-4 font-light">
-           The unofficial Somerville Porchfest Guide · May 9, 2026 · {BANDS.length} bands 
+           The unofficial Somerville Porchfest navigator · May 9, 2026 · {BANDS.length} bands 
           </p>
           <div className="relative max-w-lg">
             <Search size={16} className="absolute left-4 top-1/2 -translate-y-1/2 text-white/50" />

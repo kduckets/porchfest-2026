@@ -232,12 +232,28 @@ const missingBands = [
   { name: "Stuck on Static", time: "5:30pm – 6:00pm", genre: "Indie", address: "28 Adrian St, Somerville" },
 ];
 
-// Fetch entry list to find entry IDs
+// Fetch entry list to find entry IDs (nonce from /porchfest/porchfest-listing/)
+console.log("Fetching entry list nonce...");
+const listingPage = await fetch("https://somervilleartscouncil.org/porchfest/porchfest-listing/", {
+  headers: { "User-Agent": UA },
+});
+const listingHtml = await listingPage.text();
+const listingCookies = listingPage.headers.getSetCookie ? listingPage.headers.getSetCookie() : [];
+const nonceM = listingHtml.match(/"nonce":"([a-f0-9]+)"/);
+if (!nonceM) throw new Error("Could not find nonce in listing page");
+const nonce = nonceM[1];
+console.log(`Got nonce: ${nonce}`);
+
 console.log("Fetching entry list...");
 const listResp = await fetch("https://somervilleartscouncil.org/wp-admin/admin-ajax.php", {
   method: "POST",
-  headers: { "Content-Type": "application/x-www-form-urlencoded", "User-Agent": UA },
-  body: "action=gv_datatables_data&view_id=18158&post_id=18174&nonce=2252f8de6e&draw=1&start=0&length=-1",
+  headers: {
+    "Content-Type": "application/x-www-form-urlencoded",
+    "User-Agent": UA,
+    "Referer": "https://somervilleartscouncil.org/porchfest/porchfest-listing/",
+    ...(listingCookies.length ? { "Cookie": listingCookies.join("; ") } : {}),
+  },
+  body: `action=gv_datatables_data&view_id=18158&post_id=18174&nonce=${nonce}&getData=false&hideUntilSearched=0&draw=1&start=0&length=-1`,
 });
 const listJson = await listResp.json();
 

@@ -12,7 +12,10 @@
       "Bash(node -e ' *)",
       "Bash(node scripts/fetch-and-download-images.mjs)",
       "Bash(grep -oP '\\(?<=name: [`\"]\\)[^`\"]+' /Users/kev/Documents/GitHub/porchfest-2026/lib/bands.ts)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(curl -s https://somervilleartscouncil.org/porchfest/ -A 'Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36')",
+      "Bash(curl -s -b /tmp/new-cookies.txt -X POST https://somervilleartscouncil.org/wp-admin/admin-ajax.php -H 'Content-Type: application/x-www-form-urlencoded' -H 'Referer: https://somervilleartscouncil.org/porchfest/porchfest-listing/' -A 'Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36' -d 'action=gv_datatables_data&view_id=18158&post_id=18174&nonce=776735999c&getData=false&hideUntilSearched=0&draw=1&start=0&length=3')",
+      "Bash(node scripts/add-missing-bands.mjs)"
     ]
   }
 }

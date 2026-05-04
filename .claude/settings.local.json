@@ -10,7 +10,9 @@
       "Bash(git push *)",
       "Bash(node scripts/verify-bios.mjs)",
       "Bash(node -e ' *)",
-      "Bash(node scripts/fetch-and-download-images.mjs)"
+      "Bash(node scripts/fetch-and-download-images.mjs)",
+      "Bash(grep -oP '\\(?<=name: [`\"]\\)[^`\"]+' /Users/kev/Documents/GitHub/porchfest-2026/lib/bands.ts)",
+      "Read(//tmp/**)"
     ]
   }
 }

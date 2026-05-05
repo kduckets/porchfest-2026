@@ -144,14 +144,7 @@ export default function SchedulePage() {
         })}
       </AnimatePresence>
 
-      {/* Walking tip */}
-      <div className="mt-4 p-4 bg-sage/8 border border-sage/20 rounded-xl text-sm text-navy/60 leading-relaxed">
-        <p className="font-medium text-sage mb-1">💡 Walking tip</p>
-        <p>
-          Start in the West Zone at noon, move to Central at 2pm, and finish in
-          the East at 4pm for a natural route through Somerville.
-        </p>
-      </div>
+
 
       {/* Map CTA */}
       <Link

@@ -116,16 +116,6 @@ export function MapClient() {
           </div>
         ))}
       </div>
-
-      <div className="mt-5 p-4 bg-sage/8 border border-sage/20 rounded-xl text-sm text-navy/60 leading-relaxed">
-        <p className="font-medium text-sage mb-1">🚶 Getting around</p>
-        <p>
-          Porchfest is a walking festival — most bands are within a 10–15 minute
-          walk of each other. Arrive early, bring a blanket, and enjoy the
-          neighborhood. Parking is limited so consider the T (Davis or Porter
-          Square on the Red Line) or cycling.
-        </p>
-      </div>
     </div>
   );
 }

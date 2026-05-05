@@ -6,9 +6,9 @@ import { useSchedule } from "@/lib/store";
 import { Music2 } from "lucide-react";
 
 const TABS = [
-  { href: "/", label: "Discover" },
+  { href: "/", label: "Bands" },
   { href: "/schedule", label: "My Schedule" },
-  { href: "/map", label: "Route Map" },
+  { href: "/map", label: "Map" },
 ];
 
 export function Nav() {
